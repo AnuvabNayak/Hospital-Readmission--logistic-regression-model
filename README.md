@@ -2,10 +2,12 @@
 
 This repository contains a project aimed at predicting hospital readmission within 30 days using logistic regression. The project includes a dataset related to patient demographics, medical history, and hospital stay details, as well as a Jupyter Notebook that trains and evaluates a logistic regression model.
 
-**Project Overview**
+**Project Overview**:
+
 The primary goal of this project is to use patient data to build a logistic regression model that predicts whether a patient will be readmitted to the hospital within 30 days of discharge.
 
-**Dataset Description**
+**Dataset Description**:
+
 The dataset contains the following key columns:
 
 - Age: Age of the patient.
