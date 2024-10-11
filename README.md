@@ -18,5 +18,5 @@ The dataset contains the following key columns:
 - Primary Diagnosis: Primary reason for the hospital admission.
 - Readmitted within 30 Days: The target variable indicating whether the patient was readmitted within 30 days (0 = No, 1 = Yes).
 
-**Model**
+**Model**:
 A logistic regression model was trained on a subset of the data, with key features like Age, Number of Previous Admissions, and Days Since Last Discharge. The model was evaluated using accuracy and confusion matrix metrics. For simplicity, the model was saved using the pickle library.
