@@ -1,0 +1,1001 @@
+Age,Gender,Medical History,Recommended Health Tips,Smoking Status,Family History,Activity Level,Medical Checkup Frequency,Number of Previous Admissions,Days Since Last Discharge,Primary Diagnosis,Readmitted within 30 Days
+37,Other,['Heart Disease'],"Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Active,Twice a year,2,196,Infection,0
+89,Male,['Heart Disease'],"Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Heart Disease,Moderately Active,Quarterly,4,218,Infection,0
+19,Other,['Diabetes'],"Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Twice a year,3,219,Surgery,1
+84,Other,['Hypertension'],"DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Sedentary,Twice a year,0,247,Accident,0
+55,Female,"['Obesity', 'None', 'Hypertension']","Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Once a year,7,343,Accident,0
+26,Other,"['Asthma', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Monthly,8,60,Accident,1
+83,Female,['Asthma'],"Keto: Low carb, Exercise: 45 mins/day",Former Smoker,No Family History,Active,Quarterly,8,196,Other,0
+76,Other,"['Asthma', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,No Family History,Active,Monthly,8,335,Chronic Condition,1
+50,Other,['Heart Disease'],Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Sedentary,Once a year,4,277,Infection,0
+86,Male,"['Heart Disease', 'None', 'Obesity']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Quarterly,5,232,Infection,0
+53,Other,"['Hypertension', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Hypertension,Active,Once a year,2,157,Chronic Condition,1
+28,Other,"['Hypertension', 'Asthma']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Moderately Active,Quarterly,1,161,Accident,0
+53,Other,['Obesity'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Heart Disease,Active,Once a year,7,363,Infection,0
+40,Male,"['Asthma', 'None']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Active,Twice a year,5,235,Chronic Condition,1
+82,Male,"['Obesity', 'Diabetes']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Heart Disease,Active,Rarely,5,279,Surgery,0
+26,Male,"['None', 'Asthma']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Twice a year,6,255,Other,0
+46,Other,"['Hypertension', 'Diabetes', 'Obesity']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Quarterly,4,85,Infection,0
+19,Male,"['None', 'Diabetes']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Hypertension,Sedentary,Once a year,2,113,Accident,1
+24,Female,['Obesity'],"Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Rarely,6,119,Accident,1
+54,Other,"['Diabetes', 'None']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Once a year,5,162,Accident,1
+44,Other,['Obesity'],"Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Heart Disease,Active,Once a year,7,188,Other,0
+54,Female,"['Hypertension', 'Obesity', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Diabetes,Active,Monthly,3,92,Accident,0
+28,Male,['Heart Disease'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Diabetes,Moderately Active,Rarely,1,150,Other,1
+63,Other,"['Asthma', 'Diabetes', 'Hypertension']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Hypertension,Sedentary,Once a year,2,50,Accident,1
+83,Male,"['Hypertension', 'Diabetes']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Rarely,7,294,Other,0
+43,Female,"['Obesity', 'None']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Hypertension,Active,Once a year,0,353,Chronic Condition,1
+73,Other,"['Obesity', 'Asthma', 'Heart Disease']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Active,Quarterly,9,175,Surgery,1
+30,Other,"['Asthma', 'Obesity']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Once a year,5,114,Surgery,1
+69,Male,"['None', 'Diabetes', 'Heart Disease']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Sedentary,Quarterly,7,185,Chronic Condition,0
+46,Female,"['Diabetes', 'Obesity', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Hypertension,Active,Quarterly,1,0,Surgery,1
+78,Male,"['Hypertension', 'Obesity', 'None']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,No Family History,Active,Twice a year,2,206,Infection,1
+41,Male,['Diabetes'],"Keto: Low carb, Exercise: 45 mins/day",Never Smoked,No Family History,Moderately Active,Twice a year,8,188,Accident,0
+33,Male,['Heart Disease'],"Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Heart Disease,Active,Monthly,6,291,Surgery,0
+82,Male,['Hypertension'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Diabetes,Moderately Active,Quarterly,9,52,Surgery,0
+24,Other,"['Asthma', 'Hypertension']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Diabetes,Moderately Active,Quarterly,7,354,Surgery,0
+27,Other,"['Obesity', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Active,Monthly,4,27,Other,0
+28,Female,"['Heart Disease', 'Diabetes', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Twice a year,9,71,Accident,0
+38,Other,['Heart Disease'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Heart Disease,Active,Monthly,3,293,Chronic Condition,1
+69,Other,"['Heart Disease', 'Asthma', 'Diabetes']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Hypertension,Sedentary,Twice a year,7,189,Other,0
+30,Female,['None'],"DASH: Low salt, Exercise: 30 mins/day",Former Smoker,No Family History,Active,Once a year,3,52,Infection,0
+82,Male,['Heart Disease'],"Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Monthly,9,157,Infection,0
+28,Other,"['Heart Disease', 'None']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Active,Quarterly,5,15,Accident,0
+33,Male,"['Diabetes', 'Obesity', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Heart Disease,Moderately Active,Monthly,9,223,Other,0
+55,Other,['Heart Disease'],"DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Active,Monthly,0,17,Chronic Condition,0
+67,Male,"['None', 'Obesity']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Heart Disease,Moderately Active,Quarterly,6,150,Chronic Condition,0
+37,Other,"['Obesity', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Heart Disease,Moderately Active,Once a year,5,105,Accident,0
+71,Female,"['Asthma', 'Obesity']","Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Once a year,3,172,Surgery,1
+50,Other,['Asthma'],"DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Once a year,6,208,Other,0
+64,Other,"['Heart Disease', 'Asthma', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Hypertension,Moderately Active,Monthly,7,197,Accident,0
+63,Male,"['Heart Disease', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Heart Disease,Moderately Active,Monthly,0,96,Surgery,1
+33,Other,"['Obesity', 'Heart Disease', 'None']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,No Family History,Active,Once a year,7,87,Other,0
+25,Other,"['Asthma', 'Heart Disease']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Monthly,3,349,Infection,0
+59,Male,"['None', 'Asthma', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Once a year,6,245,Infection,0
+57,Male,"['Asthma', 'Obesity', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Moderately Active,Monthly,4,284,Infection,1
+42,Female,"['Hypertension', 'None']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,No Family History,Active,Rarely,8,269,Chronic Condition,0
+43,Female,['Asthma'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Hypertension,Sedentary,Rarely,5,223,Accident,0
+35,Female,"['Asthma', 'Hypertension']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Active,Monthly,7,322,Surgery,1
+55,Male,"['Asthma', 'None']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Moderately Active,Rarely,5,298,Infection,0
+22,Other,['Heart Disease'],"Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Active,Rarely,3,151,Chronic Condition,1
+18,Other,"['Heart Disease', 'Obesity', 'None']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Diabetes,Active,Twice a year,1,161,Surgery,0
+67,Male,"['Diabetes', 'Obesity', 'Hypertension']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Twice a year,3,230,Accident,1
+60,Male,"['Heart Disease', 'Hypertension', 'Diabetes']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Active,Once a year,5,282,Surgery,0
+50,Other,['Obesity'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,No Family History,Moderately Active,Monthly,9,308,Surgery,0
+50,Other,"['Asthma', 'Diabetes', 'Hypertension']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Moderately Active,Quarterly,9,84,Other,1
+61,Other,['Obesity'],"Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Rarely,6,273,Infection,1
+68,Other,"['Diabetes', 'Obesity', 'None']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Heart Disease,Sedentary,Quarterly,4,1,Infection,0
+32,Other,"['Obesity', 'None', 'Heart Disease']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Once a year,8,179,Chronic Condition,1
+67,Female,"['Heart Disease', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Diabetes,Sedentary,Monthly,4,99,Surgery,0
+55,Male,"['Hypertension', 'Obesity', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,No Family History,Sedentary,Quarterly,3,114,Infection,0
+74,Male,"['Obesity', 'Asthma', 'Heart Disease']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Quarterly,9,189,Accident,0
+51,Other,"['Hypertension', 'Heart Disease']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,No Family History,Active,Monthly,6,166,Accident,0
+24,Female,"['Heart Disease', 'Asthma', 'Hypertension']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Monthly,3,126,Surgery,0
+18,Other,"['Diabetes', 'Hypertension', 'Obesity']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Hypertension,Sedentary,Monthly,1,271,Infection,0
+69,Other,"['None', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Quarterly,8,64,Chronic Condition,0
+24,Male,"['Obesity', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Monthly,6,5,Chronic Condition,0
+22,Female,['Hypertension'],"Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Once a year,7,248,Chronic Condition,0
+36,Other,"['Heart Disease', 'Asthma']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Hypertension,Active,Twice a year,1,30,Infection,0
+36,Male,['Asthma'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Sedentary,Rarely,1,281,Surgery,1
+65,Male,"['Diabetes', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Hypertension,Moderately Active,Rarely,1,48,Surgery,0
+47,Other,['None'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Sedentary,Once a year,3,90,Chronic Condition,0
+46,Other,['Obesity'],"Paleo: High protein, Exercise: 60 mins/day",Current Smoker,No Family History,Moderately Active,Once a year,3,158,Chronic Condition,0
+57,Male,"['Heart Disease', 'Obesity']","Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Quarterly,8,358,Accident,0
+87,Male,['Asthma'],"Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Rarely,6,202,Other,0
+65,Female,"['Obesity', 'Asthma', 'None']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,No Family History,Moderately Active,Monthly,0,109,Infection,1
+25,Other,"['Asthma', 'Heart Disease', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Diabetes,Moderately Active,Monthly,2,0,Surgery,0
+20,Male,['Diabetes'],"Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Active,Rarely,9,141,Other,0
+48,Other,['None'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Diabetes,Moderately Active,Rarely,4,188,Accident,0
+67,Male,"['Asthma', 'Hypertension', 'Obesity']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Active,Twice a year,6,185,Other,0
+26,Female,['Hypertension'],"Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Active,Once a year,9,153,Chronic Condition,1
+64,Male,['Asthma'],"Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Twice a year,1,246,Surgery,0
+87,Male,['Hypertension'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,No Family History,Active,Twice a year,6,28,Accident,0
+54,Female,"['Hypertension', 'None', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Diabetes,Active,Rarely,5,352,Other,1
+39,Other,['Heart Disease'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Heart Disease,Sedentary,Rarely,1,130,Surgery,0
+43,Female,"['Asthma', 'Diabetes', 'Hypertension']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,No Family History,Sedentary,Twice a year,8,336,Chronic Condition,0
+31,Male,"['Obesity', 'Heart Disease', 'Hypertension']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Active,Quarterly,2,66,Infection,0
+68,Other,"['Heart Disease', 'Asthma', 'None']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Diabetes,Moderately Active,Rarely,4,201,Accident,1
+51,Male,"['Diabetes', 'Obesity', 'Heart Disease']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,No Family History,Sedentary,Monthly,9,109,Accident,0
+25,Other,['Diabetes'],"DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Active,Twice a year,8,178,Infection,1
+21,Male,"['Diabetes', 'Hypertension', 'Heart Disease']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Heart Disease,Moderately Active,Quarterly,1,155,Surgery,0
+38,Male,"['Asthma', 'Heart Disease', 'None']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Heart Disease,Active,Monthly,4,363,Infection,0
+26,Male,"['Heart Disease', 'Hypertension', 'Diabetes']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,No Family History,Active,Twice a year,8,142,Infection,1
+39,Other,"['None', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Hypertension,Moderately Active,Once a year,1,264,Other,0
+41,Female,"['Asthma', 'Diabetes', 'Obesity']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Active,Once a year,1,316,Infection,1
+36,Male,"['None', 'Obesity', 'Diabetes']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Hypertension,Sedentary,Twice a year,8,76,Accident,0
+53,Female,"['Hypertension', 'None', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Active,Once a year,6,205,Surgery,0
+42,Female,"['Heart Disease', 'Hypertension']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Moderately Active,Twice a year,1,220,Chronic Condition,0
+86,Male,['Diabetes'],"Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Heart Disease,Moderately Active,Twice a year,7,107,Infection,1
+64,Female,"['Hypertension', 'Obesity']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Active,Once a year,4,355,Chronic Condition,1
+44,Other,['Diabetes'],"Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Moderately Active,Once a year,3,237,Accident,0
+84,Female,['Diabetes'],"Keto: Low carb, Exercise: 45 mins/day",Current Smoker,No Family History,Sedentary,Quarterly,5,1,Chronic Condition,0
+41,Male,"['Obesity', 'Diabetes', 'Hypertension']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Diabetes,Active,Quarterly,0,274,Accident,1
+31,Male,['Diabetes'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Diabetes,Moderately Active,Rarely,9,56,Chronic Condition,0
+55,Male,['Hypertension'],"Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Diabetes,Sedentary,Once a year,3,191,Surgery,1
+39,Other,"['None', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Active,Monthly,3,137,Other,0
+60,Male,"['None', 'Diabetes', 'Heart Disease']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,No Family History,Active,Monthly,7,120,Other,1
+63,Male,"['Hypertension', 'Asthma']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Heart Disease,Active,Twice a year,6,244,Chronic Condition,0
+24,Male,"['Heart Disease', 'Asthma']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,No Family History,Active,Once a year,1,114,Surgery,1
+29,Female,['Hypertension'],"Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Moderately Active,Once a year,1,300,Infection,0
+40,Female,"['Diabetes', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Diabetes,Active,Monthly,7,354,Accident,0
+79,Male,"['Asthma', 'Obesity']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,No Family History,Sedentary,Once a year,3,243,Other,0
+67,Other,"['Obesity', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,No Family History,Sedentary,Monthly,0,106,Chronic Condition,0
+35,Female,['Obesity'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Once a year,9,242,Other,0
+36,Female,"['Heart Disease', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Diabetes,Moderately Active,Twice a year,8,202,Infection,0
+84,Other,['Obesity'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Hypertension,Active,Rarely,3,351,Other,0
+52,Female,"['Diabetes', 'Obesity', 'Asthma']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Hypertension,Sedentary,Twice a year,5,139,Chronic Condition,0
+82,Other,['None'],"DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Rarely,2,216,Accident,0
+47,Other,"['Hypertension', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Quarterly,3,7,Accident,1
+36,Other,"['Asthma', 'Obesity']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Once a year,3,106,Other,0
+18,Female,"['Asthma', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Quarterly,3,149,Accident,1
+76,Female,"['None', 'Obesity', 'Hypertension']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,No Family History,Moderately Active,Quarterly,3,281,Chronic Condition,1
+61,Female,"['None', 'Obesity', 'Asthma']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Hypertension,Active,Quarterly,0,15,Infection,0
+84,Female,"['Diabetes', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,No Family History,Moderately Active,Rarely,5,238,Infection,0
+69,Female,"['Asthma', 'Obesity', 'Hypertension']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Once a year,8,224,Chronic Condition,0
+64,Other,"['Hypertension', 'Heart Disease', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Diabetes,Sedentary,Quarterly,8,321,Accident,0
+45,Female,"['Diabetes', 'Obesity', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,No Family History,Sedentary,Twice a year,6,130,Accident,0
+71,Female,"['Asthma', 'Obesity', 'Heart Disease']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Active,Quarterly,6,107,Other,1
+72,Male,['Asthma'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,No Family History,Active,Once a year,9,322,Infection,0
+27,Other,"['Heart Disease', 'Hypertension', 'None']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,No Family History,Moderately Active,Quarterly,4,296,Accident,0
+32,Other,"['Hypertension', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,No Family History,Moderately Active,Once a year,7,171,Other,0
+34,Male,['Heart Disease'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Hypertension,Active,Twice a year,7,277,Other,0
+61,Female,['Hypertension'],"Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Monthly,3,205,Chronic Condition,1
+39,Female,"['Diabetes', 'Hypertension', 'None']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,No Family History,Sedentary,Monthly,8,357,Accident,1
+46,Other,"['Asthma', 'Hypertension', 'Heart Disease']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,No Family History,Active,Twice a year,9,231,Accident,0
+55,Other,['Diabetes'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Hypertension,Moderately Active,Quarterly,4,348,Other,1
+44,Female,['Diabetes'],"Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Diabetes,Active,Twice a year,5,317,Accident,1
+51,Other,['None'],Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Heart Disease,Moderately Active,Monthly,5,265,Chronic Condition,1
+50,Female,"['Asthma', 'Obesity', 'Diabetes']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Heart Disease,Moderately Active,Once a year,1,104,Chronic Condition,0
+27,Other,"['Obesity', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Once a year,7,271,Infection,0
+41,Female,"['Diabetes', 'None']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Diabetes,Sedentary,Monthly,4,299,Other,0
+42,Female,['Heart Disease'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,No Family History,Active,Once a year,3,291,Accident,1
+72,Male,"['Obesity', 'Heart Disease', 'Diabetes']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Twice a year,3,133,Infection,0
+56,Female,"['Obesity', 'Heart Disease', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Diabetes,Active,Quarterly,0,240,Accident,0
+68,Other,"['Asthma', 'None', 'Hypertension']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Hypertension,Active,Rarely,7,274,Other,0
+79,Female,"['Hypertension', 'Diabetes', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,No Family History,Moderately Active,Twice a year,4,59,Infection,0
+61,Male,['Asthma'],"Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Active,Monthly,9,310,Chronic Condition,0
+31,Other,"['Heart Disease', 'Hypertension', 'None']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,No Family History,Moderately Active,Twice a year,1,273,Surgery,0
+55,Female,['None'],"Paleo: High protein, Exercise: 60 mins/day",Former Smoker,No Family History,Moderately Active,Quarterly,1,33,Surgery,1
+75,Female,['Asthma'],"Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Once a year,1,353,Infection,0
+53,Female,"['Asthma', 'Heart Disease']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Diabetes,Active,Monthly,4,334,Other,1
+77,Female,['Hypertension'],"Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Once a year,9,216,Infection,1
+88,Female,['Heart Disease'],"Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,No Family History,Sedentary,Monthly,9,44,Other,0
+44,Male,"['Obesity', 'Diabetes']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Diabetes,Sedentary,Quarterly,4,277,Surgery,0
+88,Male,"['None', 'Heart Disease', 'Asthma']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Moderately Active,Quarterly,4,1,Accident,0
+18,Male,['Asthma'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Diabetes,Moderately Active,Quarterly,4,47,Accident,0
+39,Male,"['Obesity', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Quarterly,9,45,Surgery,1
+61,Male,"['Diabetes', 'None', 'Hypertension']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Sedentary,Once a year,6,339,Surgery,0
+30,Female,['Heart Disease'],"Paleo: High protein, Exercise: 60 mins/day",Former Smoker,No Family History,Sedentary,Monthly,7,327,Surgery,0
+42,Other,"['Heart Disease', 'Asthma', 'Hypertension']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Rarely,7,57,Accident,0
+83,Other,['Heart Disease'],"Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Sedentary,Twice a year,2,107,Infection,1
+33,Female,['None'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Heart Disease,Moderately Active,Monthly,6,1,Other,0
+83,Female,"['Diabetes', 'Asthma', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,No Family History,Active,Rarely,7,86,Infection,0
+57,Male,['Asthma'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Hypertension,Sedentary,Rarely,9,206,Surgery,0
+34,Female,['Asthma'],"Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,No Family History,Moderately Active,Monthly,0,92,Accident,0
+80,Male,"['Diabetes', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Diabetes,Sedentary,Quarterly,5,285,Chronic Condition,1
+47,Male,['Diabetes'],"Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Moderately Active,Monthly,0,282,Infection,0
+44,Female,['None'],"Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Monthly,7,217,Other,0
+73,Female,['Heart Disease'],Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Sedentary,Rarely,5,320,Chronic Condition,0
+58,Other,"['Obesity', 'Heart Disease', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Quarterly,6,7,Chronic Condition,0
+25,Other,"['Asthma', 'None', 'Hypertension']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Monthly,7,41,Chronic Condition,0
+23,Male,"['Obesity', 'None', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Hypertension,Active,Monthly,5,213,Other,1
+31,Female,['None'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,No Family History,Moderately Active,Rarely,6,79,Other,0
+50,Female,['None'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,No Family History,Active,Monthly,0,312,Chronic Condition,0
+42,Female,['Heart Disease'],"Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,No Family History,Moderately Active,Rarely,5,116,Infection,0
+81,Other,"['Asthma', 'Heart Disease', 'None']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Quarterly,5,195,Other,0
+35,Male,"['None', 'Asthma', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Hypertension,Active,Quarterly,2,170,Surgery,0
+54,Other,['None'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Hypertension,Active,Once a year,4,41,Infection,0
+56,Female,['Heart Disease'],"Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Diabetes,Active,Quarterly,4,248,Accident,1
+79,Female,['Diabetes'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Heart Disease,Sedentary,Monthly,8,154,Accident,1
+32,Male,['Heart Disease'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Active,Twice a year,4,343,Chronic Condition,0
+67,Female,['Asthma'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Heart Disease,Active,Rarely,9,156,Accident,1
+48,Male,"['None', 'Heart Disease', 'Asthma']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,No Family History,Sedentary,Once a year,6,202,Surgery,1
+72,Other,"['Asthma', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Twice a year,7,100,Surgery,1
+66,Other,"['Obesity', 'Heart Disease']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Diabetes,Sedentary,Once a year,0,273,Infection,0
+86,Male,"['Hypertension', 'Diabetes', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Monthly,2,337,Infection,0
+40,Male,"['Asthma', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Diabetes,Sedentary,Quarterly,9,298,Other,0
+20,Female,['Asthma'],"Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Quarterly,5,329,Chronic Condition,0
+61,Female,"['None', 'Asthma']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,No Family History,Active,Rarely,7,2,Accident,0
+82,Male,"['None', 'Hypertension']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Heart Disease,Sedentary,Once a year,6,174,Accident,0
+63,Other,"['Hypertension', 'Diabetes', 'Obesity']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Quarterly,1,138,Chronic Condition,1
+75,Other,['Asthma'],"Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Once a year,8,165,Surgery,1
+83,Female,"['Obesity', 'None']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Hypertension,Active,Monthly,9,258,Infection,0
+55,Male,['None'],"Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Once a year,0,254,Chronic Condition,0
+47,Male,"['Obesity', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Twice a year,6,192,Surgery,1
+58,Female,"['Hypertension', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,No Family History,Sedentary,Quarterly,0,231,Infection,1
+86,Male,"['Diabetes', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Once a year,6,176,Other,1
+20,Female,"['Heart Disease', 'Hypertension']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Once a year,0,350,Other,1
+53,Other,"['Asthma', 'None']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,No Family History,Active,Quarterly,8,197,Chronic Condition,0
+72,Male,"['Asthma', 'Obesity']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Twice a year,0,324,Infection,0
+27,Other,"['Diabetes', 'Obesity']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Quarterly,6,32,Other,0
+87,Male,"['Obesity', 'Heart Disease']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Twice a year,2,121,Other,0
+37,Other,"['Hypertension', 'None', 'Asthma']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Quarterly,4,248,Other,1
+79,Other,"['None', 'Hypertension', 'Obesity']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Heart Disease,Moderately Active,Quarterly,7,296,Accident,0
+86,Other,"['Diabetes', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Hypertension,Active,Rarely,9,338,Other,0
+64,Male,['Obesity'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,No Family History,Active,Twice a year,5,8,Chronic Condition,0
+36,Other,['Heart Disease'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Hypertension,Sedentary,Quarterly,1,55,Accident,0
+24,Female,"['Asthma', 'Hypertension']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Twice a year,5,237,Accident,1
+68,Other,"['Obesity', 'Hypertension', 'Heart Disease']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Twice a year,2,189,Surgery,0
+72,Male,"['None', 'Obesity', 'Heart Disease']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Twice a year,4,292,Accident,0
+50,Female,['Heart Disease'],"Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,No Family History,Sedentary,Twice a year,8,92,Chronic Condition,0
+54,Male,['Asthma'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Hypertension,Sedentary,Monthly,2,122,Accident,1
+47,Female,['Diabetes'],"Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Heart Disease,Sedentary,Twice a year,7,120,Accident,0
+58,Other,"['None', 'Heart Disease', 'Asthma']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Once a year,5,182,Accident,0
+33,Female,"['Obesity', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Diabetes,Active,Once a year,6,1,Chronic Condition,0
+71,Other,"['Hypertension', 'Obesity', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,No Family History,Moderately Active,Twice a year,6,299,Other,0
+58,Male,"['Diabetes', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,No Family History,Sedentary,Once a year,7,33,Accident,0
+22,Male,"['None', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Active,Quarterly,5,33,Other,1
+21,Other,"['Heart Disease', 'None', 'Hypertension']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Hypertension,Moderately Active,Rarely,1,161,Accident,0
+47,Female,"['Obesity', 'Heart Disease', 'Hypertension']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,No Family History,Sedentary,Monthly,8,219,Chronic Condition,0
+32,Other,"['Hypertension', 'None', 'Diabetes']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,No Family History,Active,Once a year,2,235,Other,1
+37,Other,"['Diabetes', 'None', 'Asthma']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Sedentary,Rarely,9,152,Surgery,1
+56,Other,"['Hypertension', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,No Family History,Moderately Active,Quarterly,5,59,Accident,0
+67,Other,['Hypertension'],"Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Twice a year,5,19,Surgery,1
+28,Other,"['Hypertension', 'None', 'Heart Disease']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Twice a year,9,238,Other,0
+69,Female,"['Diabetes', 'Hypertension', 'None']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Active,Quarterly,3,66,Chronic Condition,0
+35,Female,"['Diabetes', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Moderately Active,Rarely,7,21,Chronic Condition,1
+83,Male,['Obesity'],"Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Twice a year,2,5,Chronic Condition,0
+37,Female,"['Hypertension', 'Obesity', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Sedentary,Rarely,3,292,Infection,0
+29,Female,"['Asthma', 'Hypertension']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Twice a year,4,32,Chronic Condition,0
+61,Female,"['Diabetes', 'Hypertension']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,No Family History,Active,Twice a year,4,258,Chronic Condition,0
+41,Male,['None'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Twice a year,0,220,Surgery,1
+38,Female,"['Hypertension', 'Diabetes']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,No Family History,Active,Twice a year,9,348,Infection,0
+50,Male,"['Asthma', 'Heart Disease', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,No Family History,Sedentary,Rarely,6,98,Accident,0
+87,Female,"['Asthma', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Hypertension,Moderately Active,Twice a year,1,103,Accident,1
+28,Other,"['Asthma', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Diabetes,Sedentary,Twice a year,9,358,Accident,1
+70,Other,['Diabetes'],"Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,No Family History,Active,Quarterly,7,62,Infection,0
+33,Other,['Diabetes'],Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,No Family History,Active,Twice a year,0,201,Other,1
+29,Male,"['Asthma', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Monthly,3,339,Chronic Condition,0
+26,Male,"['Heart Disease', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Hypertension,Sedentary,Once a year,6,37,Infection,1
+84,Other,"['Heart Disease', 'Obesity']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,No Family History,Moderately Active,Twice a year,5,319,Infection,0
+51,Other,"['None', 'Heart Disease', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Rarely,4,355,Chronic Condition,1
+44,Other,"['Asthma', 'Diabetes']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,No Family History,Moderately Active,Quarterly,6,306,Surgery,0
+69,Female,['Hypertension'],"Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Diabetes,Sedentary,Once a year,8,10,Infection,0
+42,Male,['Hypertension'],"Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Quarterly,6,97,Chronic Condition,0
+45,Female,"['Diabetes', 'Asthma', 'None']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Moderately Active,Twice a year,7,121,Surgery,0
+70,Other,['Asthma'],"Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Active,Once a year,0,176,Infection,0
+60,Male,"['Diabetes', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Diabetes,Moderately Active,Quarterly,4,348,Chronic Condition,0
+86,Male,"['Hypertension', 'Asthma', 'Heart Disease']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Diabetes,Moderately Active,Rarely,5,238,Chronic Condition,0
+36,Male,['Hypertension'],"Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Once a year,7,240,Surgery,0
+78,Female,['None'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Hypertension,Active,Rarely,5,125,Accident,1
+27,Female,['Asthma'],"DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Active,Once a year,8,293,Surgery,0
+82,Male,['Hypertension'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Hypertension,Moderately Active,Quarterly,4,92,Accident,0
+31,Other,"['Heart Disease', 'Hypertension', 'Diabetes']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Diabetes,Moderately Active,Once a year,9,127,Other,0
+40,Female,['Obesity'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Sedentary,Rarely,8,305,Infection,1
+61,Female,['None'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Hypertension,Moderately Active,Quarterly,5,92,Accident,0
+32,Male,"['Asthma', 'None', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,No Family History,Active,Quarterly,7,180,Surgery,1
+67,Female,"['Hypertension', 'Heart Disease']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Heart Disease,Sedentary,Once a year,7,362,Other,0
+38,Male,['Asthma'],"Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,No Family History,Moderately Active,Quarterly,1,183,Surgery,1
+25,Male,"['Diabetes', 'None', 'Hypertension']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Twice a year,3,292,Accident,1
+25,Female,"['Hypertension', 'Heart Disease', 'Asthma']","Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Quarterly,1,339,Chronic Condition,0
+68,Male,"['Hypertension', 'None', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Hypertension,Active,Monthly,3,213,Infection,0
+57,Female,['Obesity'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Heart Disease,Moderately Active,Monthly,6,331,Surgery,0
+19,Female,"['Hypertension', 'Asthma', 'Obesity']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Hypertension,Sedentary,Quarterly,7,120,Chronic Condition,1
+75,Female,"['Obesity', 'None']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Heart Disease,Active,Quarterly,9,153,Surgery,0
+37,Female,['None'],"Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Moderately Active,Twice a year,7,320,Accident,0
+26,Male,['Asthma'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Diabetes,Moderately Active,Once a year,1,123,Infection,0
+35,Female,['None'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,No Family History,Active,Once a year,1,333,Chronic Condition,0
+66,Male,"['Diabetes', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Heart Disease,Active,Once a year,7,269,Infection,1
+66,Other,"['Obesity', 'Asthma', 'None']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Moderately Active,Quarterly,7,324,Accident,0
+67,Female,"['Asthma', 'Obesity', 'None']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Diabetes,Active,Rarely,9,258,Accident,0
+73,Male,['Diabetes'],"DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Active,Rarely,0,189,Other,0
+46,Other,['Diabetes'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Diabetes,Moderately Active,Monthly,6,198,Accident,1
+36,Other,"['Obesity', 'Heart Disease']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Active,Rarely,7,205,Surgery,0
+42,Other,['Heart Disease'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Diabetes,Sedentary,Quarterly,3,202,Surgery,1
+80,Other,"['Obesity', 'Hypertension', 'Diabetes']","Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Twice a year,2,176,Other,0
+62,Other,"['None', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Rarely,8,132,Infection,1
+86,Other,"['Heart Disease', 'Diabetes']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,No Family History,Active,Rarely,7,267,Accident,0
+45,Male,['Heart Disease'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Heart Disease,Moderately Active,Quarterly,6,159,Infection,0
+33,Female,"['Hypertension', 'Obesity', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Active,Once a year,8,265,Other,1
+36,Female,"['Obesity', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Monthly,9,88,Infection,0
+76,Other,"['Asthma', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Sedentary,Monthly,0,208,Surgery,0
+51,Male,"['Obesity', 'None']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Rarely,0,89,Other,0
+65,Other,"['Obesity', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Hypertension,Moderately Active,Quarterly,7,287,Infection,1
+23,Male,"['None', 'Obesity']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Active,Monthly,1,90,Accident,1
+71,Female,"['Diabetes', 'Asthma', 'Hypertension']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,No Family History,Moderately Active,Quarterly,7,88,Accident,0
+88,Other,"['Heart Disease', 'Asthma', 'Obesity']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,No Family History,Active,Rarely,2,278,Chronic Condition,0
+41,Female,['None'],"Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Active,Twice a year,6,363,Accident,0
+22,Other,['Obesity'],"DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Active,Quarterly,9,126,Chronic Condition,0
+55,Other,['Heart Disease'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,No Family History,Moderately Active,Once a year,1,249,Chronic Condition,0
+81,Other,['None'],"Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Hypertension,Moderately Active,Once a year,9,137,Other,0
+47,Female,"['Asthma', 'None', 'Heart Disease']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Diabetes,Active,Monthly,1,349,Surgery,0
+23,Other,"['Obesity', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Quarterly,4,108,Other,0
+53,Female,"['Hypertension', 'Heart Disease', 'Diabetes']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Heart Disease,Moderately Active,Once a year,9,181,Surgery,0
+52,Male,['Obesity'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Diabetes,Active,Once a year,8,295,Accident,0
+70,Male,"['Asthma', 'None', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Diabetes,Sedentary,Monthly,6,219,Accident,0
+59,Other,['Hypertension'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Heart Disease,Moderately Active,Once a year,9,12,Other,0
+45,Female,"['Diabetes', 'Obesity', 'Asthma']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,No Family History,Active,Monthly,1,42,Other,0
+60,Other,['Hypertension'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Diabetes,Moderately Active,Once a year,6,174,Infection,1
+30,Male,"['Heart Disease', 'Obesity', 'Asthma']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,No Family History,Active,Twice a year,9,347,Other,0
+52,Female,"['Heart Disease', 'Obesity', 'Asthma']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Monthly,8,49,Accident,1
+39,Female,"['Obesity', 'Asthma']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Diabetes,Active,Twice a year,2,39,Infection,0
+22,Other,['Asthma'],"Paleo: High protein, Exercise: 60 mins/day",Never Smoked,No Family History,Active,Quarterly,5,163,Surgery,0
+87,Other,['Diabetes'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,No Family History,Active,Monthly,0,15,Other,1
+59,Male,['Asthma'],"Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Diabetes,Active,Quarterly,2,255,Other,0
+72,Female,"['Diabetes', 'Heart Disease', 'Asthma']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Diabetes,Sedentary,Monthly,8,231,Other,1
+18,Other,"['Diabetes', 'Obesity', 'None']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Moderately Active,Twice a year,4,113,Other,0
+54,Other,['Diabetes'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Diabetes,Active,Rarely,0,108,Surgery,0
+58,Other,"['Heart Disease', 'None', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Hypertension,Active,Twice a year,1,260,Accident,0
+53,Other,"['None', 'Obesity']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Active,Once a year,3,146,Accident,0
+62,Other,"['Heart Disease', 'Hypertension', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Active,Twice a year,1,93,Surgery,0
+80,Male,"['Obesity', 'Heart Disease', 'Diabetes']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Diabetes,Active,Monthly,7,115,Other,1
+41,Other,"['Diabetes', 'Asthma']","Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Diabetes,Active,Quarterly,4,320,Other,1
+53,Other,"['Diabetes', 'Heart Disease', 'Obesity']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Active,Rarely,7,315,Infection,1
+43,Male,"['Asthma', 'Obesity']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Active,Twice a year,8,233,Other,0
+72,Male,['Hypertension'],"Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Active,Twice a year,2,318,Other,0
+74,Female,"['None', 'Diabetes', 'Heart Disease']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Diabetes,Active,Monthly,9,229,Infection,1
+31,Female,"['Obesity', 'Diabetes']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Hypertension,Moderately Active,Quarterly,6,62,Accident,0
+50,Female,['Obesity'],"Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Active,Monthly,4,286,Chronic Condition,0
+48,Other,['Asthma'],"DASH: Low salt, Exercise: 30 mins/day",Current Smoker,No Family History,Sedentary,Twice a year,3,259,Other,0
+40,Female,"['Heart Disease', 'Obesity', 'Diabetes']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,No Family History,Active,Monthly,7,258,Chronic Condition,0
+30,Male,"['Obesity', 'Hypertension']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Hypertension,Moderately Active,Quarterly,2,150,Infection,0
+50,Other,"['Heart Disease', 'Asthma', 'None']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Hypertension,Sedentary,Rarely,8,215,Infection,1
+23,Other,"['Asthma', 'Hypertension', 'None']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Monthly,2,250,Infection,1
+36,Other,"['None', 'Heart Disease', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Active,Monthly,8,67,Surgery,0
+54,Other,"['Diabetes', 'Asthma', 'Obesity']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Diabetes,Moderately Active,Quarterly,0,42,Other,0
+22,Female,"['Obesity', 'Hypertension', 'Asthma']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,No Family History,Active,Monthly,8,222,Surgery,1
+64,Male,"['Hypertension', 'Obesity']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,No Family History,Moderately Active,Twice a year,1,43,Infection,1
+50,Other,"['None', 'Heart Disease', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,No Family History,Sedentary,Rarely,0,299,Chronic Condition,0
+76,Other,"['None', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Hypertension,Sedentary,Rarely,3,297,Infection,0
+19,Female,"['Hypertension', 'None', 'Diabetes']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,No Family History,Active,Once a year,6,190,Chronic Condition,1
+57,Other,"['Asthma', 'Hypertension']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Diabetes,Active,Quarterly,2,232,Infection,0
+65,Other,"['None', 'Asthma', 'Hypertension']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,No Family History,Sedentary,Monthly,3,270,Accident,1
+38,Male,"['Obesity', 'Hypertension', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Active,Twice a year,0,329,Chronic Condition,0
+58,Male,['Obesity'],"Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Heart Disease,Active,Quarterly,0,46,Chronic Condition,0
+47,Female,['None'],"Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Sedentary,Monthly,0,79,Accident,0
+55,Female,"['Asthma', 'Diabetes']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,No Family History,Sedentary,Rarely,5,232,Accident,0
+33,Other,"['Asthma', 'Hypertension']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Diabetes,Active,Monthly,8,30,Chronic Condition,0
+81,Female,['Hypertension'],Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Diabetes,Active,Monthly,5,158,Accident,1
+55,Male,['Diabetes'],"Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Active,Once a year,3,149,Infection,0
+21,Male,['Diabetes'],"Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,No Family History,Sedentary,Rarely,6,180,Other,0
+32,Female,"['Obesity', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Heart Disease,Sedentary,Twice a year,2,17,Infection,0
+82,Other,['Diabetes'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,No Family History,Sedentary,Quarterly,6,248,Other,0
+71,Other,"['None', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Heart Disease,Sedentary,Monthly,3,273,Chronic Condition,0
+49,Male,"['Asthma', 'None']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Sedentary,Quarterly,7,293,Chronic Condition,0
+77,Male,"['Asthma', 'Heart Disease']","Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Twice a year,6,26,Other,0
+52,Male,['Diabetes'],"Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Moderately Active,Rarely,2,283,Chronic Condition,1
+83,Female,['Diabetes'],"DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Active,Monthly,9,86,Accident,0
+71,Male,['Hypertension'],"Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Diabetes,Moderately Active,Once a year,3,326,Surgery,1
+23,Female,"['Obesity', 'None']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,No Family History,Sedentary,Monthly,0,266,Surgery,0
+56,Other,"['Asthma', 'Hypertension', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Hypertension,Active,Once a year,6,77,Surgery,0
+48,Other,"['Obesity', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Diabetes,Moderately Active,Quarterly,7,349,Chronic Condition,0
+85,Male,"['None', 'Heart Disease', 'Hypertension']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Heart Disease,Active,Once a year,6,190,Chronic Condition,0
+49,Female,['Obesity'],"Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Rarely,2,195,Chronic Condition,0
+27,Male,"['None', 'Hypertension', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Heart Disease,Active,Twice a year,4,195,Infection,0
+58,Male,['Obesity'],"Keto: Low carb, Exercise: 45 mins/day",Current Smoker,No Family History,Sedentary,Monthly,3,257,Accident,0
+30,Male,"['Hypertension', 'None', 'Obesity']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Heart Disease,Active,Monthly,2,73,Surgery,1
+19,Female,"['Heart Disease', 'Diabetes', 'Hypertension']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Diabetes,Active,Twice a year,7,264,Infection,1
+24,Other,"['Diabetes', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Hypertension,Moderately Active,Quarterly,1,273,Infection,1
+18,Male,"['Heart Disease', 'Obesity']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Diabetes,Active,Rarely,5,332,Accident,1
+46,Female,"['Obesity', 'Hypertension']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Heart Disease,Moderately Active,Twice a year,8,48,Accident,0
+62,Other,"['Obesity', 'Diabetes', 'None']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Diabetes,Active,Twice a year,6,187,Chronic Condition,0
+25,Male,"['None', 'Obesity']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Once a year,5,285,Surgery,0
+41,Male,['Heart Disease'],"Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Active,Rarely,8,120,Surgery,1
+68,Female,"['Hypertension', 'None']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Active,Rarely,8,191,Chronic Condition,0
+68,Other,"['Diabetes', 'None', 'Heart Disease']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,No Family History,Active,Monthly,3,105,Chronic Condition,0
+61,Other,"['Heart Disease', 'None', 'Diabetes']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Active,Monthly,9,302,Accident,0
+77,Female,"['Obesity', 'Hypertension', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Hypertension,Sedentary,Monthly,1,16,Chronic Condition,1
+33,Female,['Hypertension'],"Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Twice a year,8,192,Other,0
+72,Male,"['Obesity', 'None', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Twice a year,1,115,Chronic Condition,0
+31,Male,"['Obesity', 'None']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,No Family History,Moderately Active,Twice a year,7,19,Infection,0
+43,Female,['Obesity'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Hypertension,Active,Twice a year,2,73,Chronic Condition,0
+30,Male,"['Heart Disease', 'None']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Heart Disease,Moderately Active,Monthly,4,6,Other,0
+77,Female,['None'],"DASH: Low salt, Exercise: 30 mins/day",Current Smoker,No Family History,Sedentary,Once a year,2,85,Accident,0
+46,Other,"['Obesity', 'Hypertension', 'Heart Disease']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,No Family History,Moderately Active,Rarely,7,137,Surgery,0
+59,Male,['Hypertension'],"Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Twice a year,8,188,Infection,0
+79,Other,"['Heart Disease', 'Asthma']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Once a year,0,131,Surgery,0
+31,Female,"['Obesity', 'Asthma']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,No Family History,Active,Monthly,5,193,Infection,1
+78,Male,"['Hypertension', 'Heart Disease']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,No Family History,Sedentary,Quarterly,0,347,Accident,0
+29,Other,"['Hypertension', 'Diabetes']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Quarterly,5,59,Other,0
+43,Male,"['Obesity', 'Diabetes']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Once a year,5,141,Chronic Condition,0
+87,Other,['Asthma'],"DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Once a year,8,145,Infection,1
+80,Other,['Obesity'],"Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Hypertension,Active,Once a year,9,179,Chronic Condition,0
+80,Female,"['Heart Disease', 'Obesity', 'None']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Heart Disease,Moderately Active,Quarterly,6,11,Other,1
+81,Other,"['None', 'Diabetes']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Heart Disease,Active,Monthly,8,322,Chronic Condition,0
+62,Male,"['Heart Disease', 'Asthma', 'Obesity']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Active,Rarely,3,22,Chronic Condition,0
+19,Other,"['Heart Disease', 'None']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Monthly,3,93,Accident,1
+27,Other,"['None', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Diabetes,Sedentary,Monthly,7,8,Infection,0
+57,Other,"['Obesity', 'Hypertension']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,No Family History,Sedentary,Monthly,1,47,Chronic Condition,0
+58,Female,"['Heart Disease', 'Diabetes']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,No Family History,Active,Rarely,3,79,Other,0
+36,Other,['Hypertension'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Heart Disease,Sedentary,Once a year,5,244,Accident,0
+44,Other,['Obesity'],"Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Rarely,1,9,Other,0
+73,Female,['Heart Disease'],"Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Active,Twice a year,0,328,Accident,0
+87,Other,['Asthma'],"Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Diabetes,Active,Twice a year,8,211,Other,0
+72,Other,['Asthma'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Diabetes,Moderately Active,Once a year,1,58,Infection,1
+32,Other,"['Diabetes', 'Hypertension']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Active,Once a year,7,290,Chronic Condition,0
+24,Male,"['Obesity', 'Diabetes', 'Heart Disease']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,No Family History,Moderately Active,Quarterly,3,284,Infection,0
+24,Female,['Heart Disease'],"DASH: Low salt, Exercise: 30 mins/day",Former Smoker,No Family History,Moderately Active,Twice a year,3,124,Infection,1
+88,Female,"['Diabetes', 'Asthma']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Active,Monthly,8,118,Surgery,1
+84,Female,"['Asthma', 'Obesity', 'Hypertension']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Quarterly,0,135,Surgery,0
+59,Male,"['Asthma', 'Obesity']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Active,Quarterly,0,200,Other,0
+64,Female,"['Diabetes', 'Heart Disease', 'Asthma']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Heart Disease,Active,Rarely,7,181,Infection,0
+34,Female,"['Diabetes', 'Obesity', 'Hypertension']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Diabetes,Moderately Active,Twice a year,4,20,Chronic Condition,0
+20,Male,['Hypertension'],"Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Once a year,6,178,Infection,0
+56,Male,"['Diabetes', 'None']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,No Family History,Sedentary,Twice a year,8,68,Accident,0
+78,Female,"['Obesity', 'Asthma']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,No Family History,Sedentary,Once a year,7,177,Infection,1
+19,Male,"['Asthma', 'Obesity', 'Heart Disease']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Sedentary,Monthly,0,85,Chronic Condition,0
+77,Male,"['Asthma', 'Hypertension']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Active,Rarely,1,131,Infection,0
+50,Other,['Asthma'],"Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Twice a year,6,143,Surgery,1
+20,Male,['Diabetes'],"DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Monthly,7,71,Accident,0
+35,Female,"['Hypertension', 'Obesity', 'Diabetes']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Once a year,7,295,Surgery,1
+83,Other,"['Obesity', 'Heart Disease']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Monthly,4,223,Infection,0
+68,Male,"['Heart Disease', 'None', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Heart Disease,Sedentary,Monthly,1,86,Chronic Condition,0
+46,Female,"['Diabetes', 'Asthma', 'None']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Hypertension,Active,Once a year,6,208,Chronic Condition,1
+43,Other,['Diabetes'],"Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Rarely,1,27,Chronic Condition,0
+65,Other,['Diabetes'],"Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Monthly,0,21,Surgery,1
+88,Other,"['Asthma', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Twice a year,1,32,Surgery,0
+18,Male,"['Asthma', 'Diabetes']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Hypertension,Sedentary,Quarterly,4,305,Surgery,0
+78,Other,"['Diabetes', 'None']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Quarterly,1,181,Chronic Condition,0
+70,Female,['None'],"DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Once a year,0,150,Accident,0
+23,Other,"['Hypertension', 'Heart Disease', 'Diabetes']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Hypertension,Moderately Active,Twice a year,6,57,Infection,1
+62,Male,"['Heart Disease', 'Asthma', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Hypertension,Sedentary,Quarterly,2,140,Infection,0
+55,Male,"['Heart Disease', 'None', 'Asthma']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Active,Rarely,1,79,Chronic Condition,0
+18,Male,"['Hypertension', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,No Family History,Active,Twice a year,6,330,Chronic Condition,1
+76,Other,['Obesity'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,No Family History,Active,Rarely,6,9,Surgery,0
+45,Other,"['None', 'Diabetes', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,No Family History,Sedentary,Twice a year,2,1,Accident,1
+21,Other,"['Hypertension', 'None', 'Heart Disease']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Sedentary,Once a year,4,232,Infection,0
+49,Male,['Heart Disease'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,No Family History,Sedentary,Monthly,2,243,Infection,1
+76,Other,"['Obesity', 'Diabetes', 'Heart Disease']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Heart Disease,Active,Monthly,7,31,Infection,1
+29,Other,['Hypertension'],"DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Moderately Active,Twice a year,3,335,Other,1
+83,Female,"['None', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Quarterly,5,176,Surgery,1
+46,Female,"['Obesity', 'Hypertension']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Diabetes,Active,Monthly,1,241,Surgery,0
+74,Male,"['Diabetes', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,No Family History,Moderately Active,Rarely,6,357,Infection,0
+50,Male,"['Heart Disease', 'None', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Heart Disease,Sedentary,Twice a year,7,177,Surgery,0
+35,Female,"['Hypertension', 'Diabetes']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Active,Once a year,6,181,Chronic Condition,0
+42,Male,"['Asthma', 'None', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Twice a year,2,286,Infection,0
+40,Female,['Hypertension'],Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Heart Disease,Active,Monthly,9,208,Other,1
+35,Female,"['Diabetes', 'None', 'Heart Disease']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Heart Disease,Moderately Active,Once a year,8,223,Chronic Condition,1
+56,Female,"['Diabetes', 'Heart Disease', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,No Family History,Moderately Active,Rarely,6,223,Infection,0
+52,Other,"['Obesity', 'None', 'Asthma']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Sedentary,Rarely,9,91,Infection,1
+64,Other,"['Asthma', 'Hypertension', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Hypertension,Moderately Active,Quarterly,3,45,Infection,0
+40,Female,"['None', 'Obesity', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,No Family History,Moderately Active,Quarterly,4,255,Other,0
+35,Other,"['Asthma', 'Diabetes']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Diabetes,Moderately Active,Monthly,9,108,Infection,0
+70,Female,['Heart Disease'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Heart Disease,Moderately Active,Twice a year,3,122,Other,0
+31,Male,"['None', 'Obesity']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Rarely,9,161,Surgery,0
+78,Female,['None'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Hypertension,Active,Rarely,8,113,Surgery,0
+46,Other,"['Heart Disease', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Moderately Active,Twice a year,9,70,Surgery,0
+54,Other,"['Heart Disease', 'None', 'Asthma']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,No Family History,Active,Monthly,9,35,Chronic Condition,0
+57,Male,"['None', 'Hypertension', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Diabetes,Active,Once a year,4,173,Infection,1
+69,Male,"['Diabetes', 'Hypertension']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Active,Monthly,4,26,Other,0
+52,Other,"['Asthma', 'Hypertension', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,No Family History,Active,Rarely,1,58,Infection,1
+22,Female,"['Asthma', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Twice a year,3,40,Surgery,0
+70,Female,['Hypertension'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Hypertension,Active,Once a year,9,173,Surgery,0
+81,Male,['Heart Disease'],"Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Heart Disease,Active,Twice a year,9,114,Chronic Condition,0
+71,Other,['None'],"Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Heart Disease,Moderately Active,Monthly,1,148,Surgery,1
+60,Other,['Obesity'],"Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Active,Once a year,2,128,Infection,1
+23,Other,"['Diabetes', 'None']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Rarely,7,92,Surgery,0
+35,Other,"['Heart Disease', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,No Family History,Active,Rarely,7,72,Infection,0
+20,Other,"['None', 'Hypertension', 'Diabetes']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,No Family History,Sedentary,Rarely,2,96,Infection,0
+57,Other,"['Diabetes', 'Obesity', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Diabetes,Active,Twice a year,3,149,Other,0
+88,Other,"['None', 'Asthma']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Heart Disease,Moderately Active,Quarterly,2,9,Chronic Condition,0
+70,Female,"['None', 'Asthma']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Rarely,7,133,Surgery,0
+31,Male,"['None', 'Asthma']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Twice a year,0,109,Accident,0
+87,Other,"['Asthma', 'None', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,No Family History,Sedentary,Quarterly,7,7,Other,0
+25,Other,"['Heart Disease', 'Obesity', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Diabetes,Active,Once a year,9,10,Infection,0
+31,Other,"['Diabetes', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Diabetes,Moderately Active,Rarely,5,1,Surgery,0
+41,Male,"['Hypertension', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,No Family History,Sedentary,Quarterly,3,261,Chronic Condition,1
+88,Female,"['Heart Disease', 'None']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Diabetes,Active,Quarterly,0,73,Surgery,1
+78,Female,"['Hypertension', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,No Family History,Active,Once a year,8,62,Accident,0
+32,Other,"['Heart Disease', 'None']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Once a year,8,302,Surgery,0
+68,Other,['Diabetes'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Heart Disease,Moderately Active,Monthly,1,360,Surgery,0
+68,Other,['Hypertension'],"Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Twice a year,2,76,Other,0
+18,Other,"['Hypertension', 'Heart Disease', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,No Family History,Moderately Active,Twice a year,7,302,Infection,0
+47,Other,"['Diabetes', 'Obesity', 'Asthma']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,No Family History,Moderately Active,Monthly,0,328,Infection,0
+45,Male,['None'],"Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Active,Twice a year,3,304,Other,1
+69,Male,"['Obesity', 'Hypertension', 'Heart Disease']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Heart Disease,Moderately Active,Quarterly,1,192,Other,1
+35,Male,"['Obesity', 'None', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Quarterly,2,122,Infection,0
+18,Other,['Asthma'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,No Family History,Sedentary,Monthly,1,96,Chronic Condition,0
+54,Female,"['Hypertension', 'None']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,No Family History,Sedentary,Monthly,0,253,Infection,0
+52,Male,"['Asthma', 'None', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Hypertension,Moderately Active,Monthly,1,257,Chronic Condition,0
+84,Male,"['Heart Disease', 'Asthma']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Moderately Active,Twice a year,1,78,Infection,0
+26,Other,"['None', 'Diabetes', 'Heart Disease']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Active,Monthly,6,293,Infection,0
+33,Female,['Asthma'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Hypertension,Moderately Active,Rarely,7,12,Chronic Condition,0
+37,Female,"['Diabetes', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Rarely,5,75,Surgery,0
+29,Other,"['Obesity', 'Diabetes']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Diabetes,Moderately Active,Monthly,3,114,Accident,1
+43,Other,"['Hypertension', 'Diabetes', 'Asthma']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,No Family History,Sedentary,Rarely,5,44,Surgery,1
+31,Female,"['Hypertension', 'Diabetes']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Quarterly,8,225,Other,0
+50,Other,['Obesity'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Hypertension,Moderately Active,Monthly,7,23,Other,1
+58,Male,"['None', 'Hypertension']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,No Family History,Sedentary,Once a year,6,283,Chronic Condition,0
+25,Female,"['Diabetes', 'Heart Disease']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Heart Disease,Moderately Active,Twice a year,7,52,Chronic Condition,0
+40,Other,"['Obesity', 'Diabetes', 'Asthma']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Diabetes,Sedentary,Twice a year,6,185,Accident,0
+51,Male,['None'],"Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,No Family History,Active,Quarterly,2,41,Accident,0
+77,Other,"['Asthma', 'Heart Disease', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Once a year,3,63,Infection,0
+66,Male,['None'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,No Family History,Active,Rarely,9,323,Surgery,1
+22,Other,"['None', 'Asthma', 'Heart Disease']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Active,Once a year,3,95,Surgery,0
+47,Female,"['None', 'Obesity']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,No Family History,Moderately Active,Rarely,1,303,Surgery,1
+33,Other,['Heart Disease'],"Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Active,Quarterly,4,29,Other,0
+77,Male,"['Asthma', 'Diabetes']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Heart Disease,Moderately Active,Rarely,7,316,Surgery,1
+36,Male,"['Hypertension', 'None', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Hypertension,Moderately Active,Quarterly,3,232,Other,0
+87,Female,"['Diabetes', 'Asthma']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Quarterly,2,348,Chronic Condition,0
+59,Other,"['Hypertension', 'Asthma', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Twice a year,3,256,Chronic Condition,0
+66,Male,['Asthma'],"Paleo: High protein, Exercise: 60 mins/day",Former Smoker,No Family History,Active,Once a year,9,87,Accident,0
+61,Female,"['Heart Disease', 'Diabetes', 'Asthma']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Monthly,6,6,Other,0
+63,Female,['None'],"Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,No Family History,Sedentary,Rarely,0,330,Accident,0
+68,Male,['Asthma'],"Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Moderately Active,Quarterly,0,60,Infection,1
+44,Female,"['Diabetes', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Diabetes,Sedentary,Once a year,3,197,Chronic Condition,0
+87,Male,['Diabetes'],"Paleo: High protein, Exercise: 60 mins/day",Former Smoker,No Family History,Moderately Active,Rarely,6,335,Other,0
+22,Male,"['Heart Disease', 'Diabetes']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Heart Disease,Moderately Active,Rarely,1,133,Accident,1
+29,Male,['Diabetes'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Diabetes,Sedentary,Monthly,9,356,Surgery,0
+33,Other,"['None', 'Asthma']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Diabetes,Active,Twice a year,0,12,Accident,0
+83,Male,"['None', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Hypertension,Sedentary,Twice a year,0,343,Accident,0
+48,Female,"['Heart Disease', 'Diabetes']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,No Family History,Active,Twice a year,6,199,Infection,0
+21,Male,['Asthma'],"Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,No Family History,Active,Monthly,9,234,Accident,0
+53,Female,"['Diabetes', 'Heart Disease', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Heart Disease,Active,Quarterly,8,346,Infection,1
+33,Other,"['Diabetes', 'Obesity', 'Asthma']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,No Family History,Moderately Active,Monthly,3,7,Other,1
+48,Female,"['Diabetes', 'None', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Once a year,2,106,Chronic Condition,0
+31,Male,"['None', 'Asthma', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Twice a year,7,244,Surgery,0
+57,Male,"['Hypertension', 'None', 'Diabetes']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,No Family History,Sedentary,Once a year,9,156,Other,1
+25,Female,"['Diabetes', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Active,Once a year,2,364,Accident,0
+50,Other,"['Hypertension', 'Obesity', 'Asthma']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Hypertension,Moderately Active,Monthly,1,360,Chronic Condition,0
+82,Other,"['Asthma', 'Obesity']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Sedentary,Rarely,8,354,Chronic Condition,1
+56,Other,"['None', 'Heart Disease', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,No Family History,Sedentary,Quarterly,9,159,Other,1
+80,Male,"['Heart Disease', 'Hypertension', 'Asthma']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Quarterly,4,130,Accident,0
+61,Male,['Obesity'],"Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Moderately Active,Twice a year,6,53,Other,0
+59,Female,"['Obesity', 'None', 'Diabetes']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Monthly,2,238,Other,1
+51,Male,"['Hypertension', 'Obesity']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Monthly,3,108,Chronic Condition,1
+40,Male,"['Diabetes', 'Asthma', 'Heart Disease']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,No Family History,Sedentary,Monthly,8,196,Chronic Condition,0
+55,Male,"['Heart Disease', 'None', 'Asthma']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,No Family History,Moderately Active,Twice a year,0,207,Other,0
+70,Male,"['None', 'Heart Disease']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,No Family History,Active,Rarely,8,342,Surgery,1
+67,Male,"['Obesity', 'None', 'Hypertension']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Once a year,6,37,Surgery,0
+66,Other,"['Asthma', 'Heart Disease']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Monthly,0,21,Other,1
+21,Other,"['Obesity', 'Asthma', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Active,Quarterly,4,65,Chronic Condition,1
+65,Other,"['Obesity', 'Diabetes', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Moderately Active,Twice a year,1,175,Chronic Condition,0
+75,Female,"['Hypertension', 'Obesity', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Heart Disease,Sedentary,Quarterly,5,223,Chronic Condition,0
+40,Female,"['Diabetes', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Active,Twice a year,6,39,Chronic Condition,0
+88,Other,"['Asthma', 'Obesity', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Heart Disease,Active,Twice a year,9,78,Other,0
+35,Other,"['None', 'Heart Disease']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,No Family History,Active,Rarely,0,74,Infection,0
+63,Other,['None'],"Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Twice a year,4,357,Chronic Condition,0
+64,Female,['None'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,No Family History,Sedentary,Twice a year,0,321,Chronic Condition,0
+85,Other,"['Obesity', 'Hypertension', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Active,Once a year,1,165,Other,0
+40,Female,"['Asthma', 'Diabetes', 'Heart Disease']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Heart Disease,Active,Once a year,8,225,Surgery,1
+43,Female,"['Obesity', 'Diabetes']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Heart Disease,Moderately Active,Rarely,3,122,Other,0
+73,Other,"['None', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,No Family History,Moderately Active,Quarterly,4,77,Infection,0
+18,Female,"['Diabetes', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Diabetes,Sedentary,Twice a year,0,161,Infection,1
+23,Female,"['Heart Disease', 'Asthma']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Hypertension,Moderately Active,Twice a year,8,142,Accident,1
+78,Other,"['Asthma', 'Obesity', 'Diabetes']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Active,Once a year,5,258,Other,1
+88,Female,['Heart Disease'],"Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Diabetes,Sedentary,Quarterly,6,213,Chronic Condition,0
+63,Other,"['None', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Heart Disease,Sedentary,Once a year,0,293,Other,0
+56,Other,"['Hypertension', 'Diabetes', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Diabetes,Sedentary,Monthly,1,180,Chronic Condition,0
+53,Male,"['Asthma', 'Diabetes', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Active,Twice a year,4,214,Accident,0
+45,Other,['Heart Disease'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Diabetes,Moderately Active,Twice a year,0,283,Infection,0
+32,Other,"['Hypertension', 'Heart Disease']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Monthly,9,188,Accident,1
+75,Male,"['Obesity', 'Asthma', 'Heart Disease']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,No Family History,Sedentary,Quarterly,6,25,Surgery,0
+28,Male,"['Diabetes', 'Asthma', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Rarely,3,156,Infection,0
+73,Other,['Diabetes'],"Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Quarterly,2,346,Surgery,1
+68,Other,"['Diabetes', 'Heart Disease']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Active,Quarterly,6,56,Surgery,0
+62,Male,"['Diabetes', 'Asthma']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Once a year,0,44,Other,1
+69,Male,"['Obesity', 'None', 'Hypertension']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Active,Twice a year,9,48,Surgery,0
+68,Male,"['Obesity', 'Heart Disease', 'None']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,No Family History,Active,Rarely,8,298,Chronic Condition,0
+33,Other,['Heart Disease'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Heart Disease,Moderately Active,Rarely,4,234,Chronic Condition,0
+20,Male,"['Hypertension', 'None']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,No Family History,Active,Once a year,5,285,Accident,0
+31,Female,['Asthma'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,No Family History,Sedentary,Twice a year,1,95,Chronic Condition,1
+35,Female,"['Asthma', 'None', 'Hypertension']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Active,Twice a year,4,53,Surgery,0
+56,Male,"['Hypertension', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Moderately Active,Once a year,6,360,Other,0
+23,Male,"['Hypertension', 'Asthma']","Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Diabetes,Active,Rarely,5,243,Other,1
+49,Female,"['Asthma', 'Diabetes', 'Hypertension']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Quarterly,6,46,Chronic Condition,0
+41,Female,"['Diabetes', 'Heart Disease', 'Hypertension']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,No Family History,Moderately Active,Monthly,4,45,Surgery,1
+27,Female,"['Obesity', 'None', 'Asthma']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Once a year,8,63,Surgery,0
+73,Female,"['Obesity', 'Asthma', 'Heart Disease']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Diabetes,Active,Monthly,1,3,Surgery,1
+86,Male,"['Asthma', 'Heart Disease', 'Diabetes']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Quarterly,3,152,Other,1
+63,Other,"['Asthma', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,No Family History,Sedentary,Rarely,9,96,Chronic Condition,0
+47,Female,"['Obesity', 'Heart Disease']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,No Family History,Sedentary,Monthly,2,354,Chronic Condition,0
+18,Male,['None'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Diabetes,Sedentary,Once a year,4,302,Accident,0
+55,Male,['Hypertension'],"DASH: Low salt, Exercise: 30 mins/day",Former Smoker,No Family History,Sedentary,Once a year,3,250,Accident,1
+35,Other,"['Hypertension', 'Diabetes', 'None']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,No Family History,Moderately Active,Quarterly,8,65,Surgery,0
+35,Male,"['Heart Disease', 'Hypertension']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Sedentary,Quarterly,5,303,Other,0
+21,Female,"['None', 'Obesity', 'Diabetes']","Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Active,Twice a year,5,132,Other,0
+30,Other,"['Diabetes', 'None', 'Heart Disease']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Hypertension,Active,Once a year,6,152,Other,1
+67,Male,"['Heart Disease', 'Obesity', 'Hypertension']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Quarterly,7,314,Infection,1
+56,Male,"['Obesity', 'Diabetes', 'None']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Twice a year,5,325,Surgery,0
+59,Male,"['Hypertension', 'None']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Diabetes,Sedentary,Quarterly,6,131,Other,0
+54,Female,"['Diabetes', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Monthly,0,167,Accident,0
+52,Female,"['Heart Disease', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Moderately Active,Rarely,8,252,Surgery,0
+56,Other,"['Obesity', 'Asthma', 'Diabetes']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Diabetes,Sedentary,Quarterly,2,329,Other,0
+19,Other,"['Hypertension', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Heart Disease,Active,Once a year,0,188,Infection,0
+36,Male,"['Asthma', 'Hypertension']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Heart Disease,Sedentary,Monthly,9,250,Infection,0
+70,Other,['Asthma'],"Keto: Low carb, Exercise: 45 mins/day",Current Smoker,No Family History,Moderately Active,Quarterly,1,196,Surgery,1
+33,Other,['Hypertension'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,No Family History,Active,Monthly,8,313,Chronic Condition,0
+42,Female,"['None', 'Hypertension']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Active,Rarely,7,52,Accident,1
+65,Male,"['Asthma', 'Diabetes', 'Obesity']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Rarely,2,165,Accident,0
+25,Male,"['None', 'Asthma']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,No Family History,Active,Quarterly,8,157,Infection,1
+23,Male,"['Hypertension', 'Asthma']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Heart Disease,Active,Twice a year,9,230,Accident,1
+27,Male,"['Heart Disease', 'Diabetes', 'Obesity']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Moderately Active,Once a year,5,255,Chronic Condition,1
+30,Male,['Asthma'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Diabetes,Active,Rarely,3,91,Surgery,0
+64,Other,['None'],"Paleo: High protein, Exercise: 60 mins/day",Never Smoked,No Family History,Active,Once a year,6,188,Surgery,0
+76,Male,"['Obesity', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,No Family History,Moderately Active,Quarterly,1,283,Chronic Condition,0
+58,Female,"['Diabetes', 'None']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Heart Disease,Moderately Active,Monthly,9,74,Other,0
+56,Male,"['Diabetes', 'Hypertension']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Heart Disease,Sedentary,Monthly,7,218,Chronic Condition,0
+32,Female,"['None', 'Hypertension', 'Diabetes']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Active,Monthly,8,140,Chronic Condition,0
+52,Other,"['Hypertension', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,No Family History,Moderately Active,Quarterly,0,326,Surgery,0
+38,Male,"['Asthma', 'Hypertension']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Moderately Active,Twice a year,0,282,Surgery,0
+76,Other,"['Asthma', 'Obesity', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Hypertension,Active,Rarely,5,161,Chronic Condition,1
+86,Female,"['Asthma', 'Heart Disease', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Active,Monthly,6,306,Chronic Condition,0
+52,Other,['Heart Disease'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Hypertension,Moderately Active,Rarely,7,197,Surgery,0
+83,Female,"['Heart Disease', 'None', 'Diabetes']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Rarely,0,126,Other,0
+85,Male,"['Obesity', 'Hypertension', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Heart Disease,Moderately Active,Monthly,2,132,Infection,0
+49,Male,"['Diabetes', 'None', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Diabetes,Sedentary,Quarterly,5,224,Other,1
+18,Female,"['Asthma', 'Heart Disease', 'Hypertension']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Hypertension,Moderately Active,Twice a year,9,263,Other,0
+80,Other,['Asthma'],"Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Sedentary,Once a year,0,358,Infection,0
+28,Female,['Obesity'],"DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Moderately Active,Quarterly,0,175,Chronic Condition,0
+80,Other,"['None', 'Heart Disease']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,No Family History,Active,Rarely,0,110,Surgery,1
+61,Other,"['Heart Disease', 'None', 'Obesity']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Twice a year,1,208,Chronic Condition,0
+84,Male,['None'],"Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Heart Disease,Active,Twice a year,6,289,Other,1
+89,Male,"['None', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Once a year,5,57,Accident,1
+23,Female,"['None', 'Heart Disease', 'Hypertension']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Once a year,3,262,Other,0
+33,Female,['None'],"Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Heart Disease,Active,Rarely,6,4,Infection,0
+81,Other,['Obesity'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Heart Disease,Moderately Active,Twice a year,2,350,Chronic Condition,0
+43,Male,['Asthma'],"Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Active,Quarterly,6,298,Chronic Condition,1
+25,Male,"['None', 'Obesity', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Active,Quarterly,9,333,Accident,0
+84,Other,"['Hypertension', 'None', 'Asthma']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Diabetes,Sedentary,Rarely,5,142,Infection,1
+70,Other,"['Obesity', 'Hypertension']","Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Quarterly,1,39,Infection,0
+49,Male,"['Obesity', 'Asthma']","Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,No Family History,Active,Monthly,7,179,Accident,0
+67,Female,"['None', 'Obesity', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Hypertension,Moderately Active,Twice a year,6,91,Surgery,1
+86,Other,['Diabetes'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Diabetes,Moderately Active,Monthly,3,122,Accident,0
+66,Other,"['Asthma', 'Obesity', 'Heart Disease']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Hypertension,Sedentary,Quarterly,8,228,Other,0
+61,Male,"['Heart Disease', 'Diabetes', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,No Family History,Active,Twice a year,3,254,Infection,0
+88,Other,['None'],"Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Active,Once a year,6,244,Infection,1
+77,Female,"['Hypertension', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Heart Disease,Active,Monthly,0,16,Surgery,0
+88,Male,"['None', 'Obesity', 'Diabetes']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Heart Disease,Sedentary,Once a year,0,319,Other,0
+54,Other,"['Heart Disease', 'None']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Active,Once a year,2,218,Other,1
+66,Female,"['Heart Disease', 'Diabetes', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,No Family History,Sedentary,Once a year,8,184,Other,1
+88,Female,"['Heart Disease', 'Diabetes']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,No Family History,Moderately Active,Monthly,2,275,Chronic Condition,0
+85,Male,"['Diabetes', 'None']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Moderately Active,Quarterly,8,187,Surgery,0
+59,Male,"['Hypertension', 'None']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Heart Disease,Active,Quarterly,5,237,Other,0
+32,Male,"['Asthma', 'None', 'Heart Disease']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Active,Once a year,4,59,Accident,0
+32,Other,['Diabetes'],"Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Heart Disease,Active,Twice a year,1,186,Accident,1
+84,Male,"['None', 'Asthma', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Heart Disease,Active,Twice a year,5,39,Other,1
+36,Female,"['Hypertension', 'Diabetes', 'Asthma']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,No Family History,Moderately Active,Once a year,5,227,Chronic Condition,0
+37,Male,"['Diabetes', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Heart Disease,Sedentary,Rarely,6,304,Infection,0
+48,Other,"['Heart Disease', 'Obesity']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Diabetes,Sedentary,Once a year,5,95,Chronic Condition,1
+24,Male,"['Obesity', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Active,Quarterly,1,313,Chronic Condition,1
+27,Female,['Hypertension'],"Paleo: High protein, Exercise: 60 mins/day",Never Smoked,No Family History,Active,Monthly,6,153,Infection,0
+83,Other,"['Obesity', 'Hypertension', 'Diabetes']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Once a year,0,54,Chronic Condition,0
+61,Male,['Heart Disease'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,No Family History,Active,Monthly,5,7,Other,1
+52,Male,"['Hypertension', 'Obesity', 'Diabetes']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Heart Disease,Moderately Active,Quarterly,6,361,Surgery,0
+83,Male,"['Heart Disease', 'Diabetes']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Moderately Active,Rarely,2,144,Other,0
+30,Male,"['Asthma', 'None', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Heart Disease,Active,Rarely,5,348,Chronic Condition,1
+35,Male,"['Obesity', 'Heart Disease', 'Asthma']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,No Family History,Sedentary,Monthly,1,286,Other,0
+19,Female,"['Diabetes', 'Heart Disease', 'None']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,No Family History,Moderately Active,Quarterly,2,267,Other,1
+42,Female,['Diabetes'],"Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Once a year,4,179,Infection,0
+22,Other,['Asthma'],"Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Moderately Active,Monthly,3,75,Other,1
+29,Male,"['Heart Disease', 'Asthma', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Twice a year,8,223,Other,0
+31,Other,['Hypertension'],"Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,No Family History,Sedentary,Rarely,4,82,Surgery,0
+73,Male,"['None', 'Hypertension', 'Heart Disease']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Rarely,2,320,Surgery,0
+23,Other,['Obesity'],"Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Quarterly,6,10,Surgery,0
+88,Female,['Hypertension'],"Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Hypertension,Active,Quarterly,1,248,Accident,0
+81,Female,"['Hypertension', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Moderately Active,Monthly,7,206,Infection,0
+40,Female,['None'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Hypertension,Sedentary,Quarterly,9,109,Surgery,0
+70,Other,"['Hypertension', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Heart Disease,Sedentary,Once a year,8,113,Accident,1
+46,Other,['Heart Disease'],"Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Twice a year,2,27,Other,1
+85,Male,"['Obesity', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,No Family History,Active,Once a year,8,234,Chronic Condition,1
+68,Male,"['Obesity', 'Asthma', 'None']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Once a year,1,297,Accident,0
+66,Female,"['Heart Disease', 'Hypertension', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Heart Disease,Sedentary,Monthly,9,116,Infection,1
+42,Male,"['Hypertension', 'Diabetes', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Heart Disease,Active,Once a year,0,207,Accident,0
+60,Other,"['Hypertension', 'Diabetes']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Moderately Active,Twice a year,7,293,Other,0
+56,Other,"['Hypertension', 'Diabetes']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Hypertension,Active,Rarely,1,228,Infection,1
+71,Other,['None'],"DASH: Low salt, Exercise: 30 mins/day",Former Smoker,No Family History,Moderately Active,Once a year,3,210,Accident,0
+75,Other,"['None', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Heart Disease,Active,Monthly,1,140,Surgery,0
+86,Female,"['Obesity', 'Asthma', 'Heart Disease']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Twice a year,8,294,Chronic Condition,0
+36,Male,['Asthma'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,No Family History,Active,Monthly,3,341,Other,0
+56,Female,['Obesity'],"Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,No Family History,Sedentary,Monthly,6,67,Other,1
+70,Male,"['Heart Disease', 'Diabetes']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,No Family History,Moderately Active,Twice a year,8,104,Other,0
+38,Male,"['Heart Disease', 'Asthma']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,No Family History,Moderately Active,Monthly,7,193,Other,0
+65,Male,"['Diabetes', 'Asthma', 'Obesity']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Moderately Active,Monthly,7,9,Accident,0
+50,Male,"['Obesity', 'Heart Disease', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,No Family History,Active,Quarterly,2,253,Infection,0
+81,Male,['Obesity'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,No Family History,Moderately Active,Once a year,5,91,Other,0
+89,Male,['Heart Disease'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,No Family History,Sedentary,Quarterly,3,73,Accident,0
+49,Male,"['None', 'Asthma', 'Obesity']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,No Family History,Active,Once a year,6,96,Accident,0
+69,Male,"['Hypertension', 'Heart Disease']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Diabetes,Moderately Active,Once a year,8,37,Infection,1
+40,Female,['Asthma'],"Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Active,Once a year,0,150,Other,1
+52,Other,['Obesity'],"Paleo: High protein, Exercise: 60 mins/day",Never Smoked,No Family History,Moderately Active,Quarterly,9,257,Accident,1
+40,Other,"['Hypertension', 'Asthma', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,No Family History,Moderately Active,Rarely,4,34,Infection,1
+62,Male,"['Diabetes', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,No Family History,Active,Twice a year,8,247,Other,1
+50,Other,"['Obesity', 'Asthma', 'Hypertension']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Monthly,4,118,Accident,0
+25,Male,"['Hypertension', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Hypertension,Active,Monthly,6,198,Other,0
+18,Female,"['None', 'Heart Disease']","Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Heart Disease,Active,Rarely,7,358,Infection,1
+73,Other,"['Heart Disease', 'None', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Hypertension,Moderately Active,Monthly,5,276,Chronic Condition,1
+85,Other,['None'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Hypertension,Sedentary,Rarely,8,196,Surgery,0
+26,Male,['Diabetes'],"Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Once a year,8,104,Accident,0
+39,Female,"['Diabetes', 'Hypertension', 'Asthma']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Quarterly,0,315,Chronic Condition,0
+77,Male,"['None', 'Asthma']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Heart Disease,Moderately Active,Monthly,0,282,Chronic Condition,0
+37,Other,"['Heart Disease', 'Hypertension', 'Diabetes']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Heart Disease,Sedentary,Rarely,0,275,Infection,1
+36,Male,"['Diabetes', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Diabetes,Active,Twice a year,8,159,Accident,0
+80,Male,['Hypertension'],Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Diabetes,Sedentary,Once a year,5,345,Chronic Condition,0
+56,Male,"['Asthma', 'Heart Disease', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Heart Disease,Moderately Active,Twice a year,8,150,Infection,1
+40,Other,"['Heart Disease', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Twice a year,2,356,Surgery,0
+71,Other,"['Asthma', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Moderately Active,Twice a year,9,80,Accident,0
+20,Female,['Heart Disease'],"Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Active,Rarely,4,76,Surgery,1
+18,Female,['None'],"Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Monthly,0,49,Other,0
+65,Male,"['Diabetes', 'Hypertension']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Rarely,5,20,Infection,1
+46,Other,"['Diabetes', 'Hypertension', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,No Family History,Active,Rarely,4,291,Infection,0
+31,Female,['Asthma'],Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Moderately Active,Twice a year,7,3,Infection,0
+51,Female,"['Obesity', 'Heart Disease', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,No Family History,Moderately Active,Quarterly,9,158,Accident,1
+68,Female,"['None', 'Diabetes', 'Asthma']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Once a year,7,348,Infection,0
+85,Other,"['Heart Disease', 'Hypertension', 'None']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Quarterly,9,41,Accident,0
+45,Female,"['Obesity', 'None']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,No Family History,Moderately Active,Twice a year,1,3,Chronic Condition,0
+74,Other,"['Diabetes', 'Heart Disease']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Monthly,0,123,Accident,0
+61,Male,['None'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Diabetes,Sedentary,Twice a year,1,341,Chronic Condition,0
+64,Female,"['None', 'Asthma', 'Diabetes']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Hypertension,Moderately Active,Rarely,9,60,Other,0
+80,Female,['Diabetes'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Heart Disease,Active,Once a year,2,28,Other,0
+35,Female,['Hypertension'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,No Family History,Moderately Active,Monthly,8,131,Accident,0
+46,Male,"['None', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,No Family History,Moderately Active,Once a year,3,61,Infection,0
+70,Female,"['Diabetes', 'Heart Disease']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Diabetes,Active,Quarterly,9,157,Infection,0
+55,Other,"['Hypertension', 'Heart Disease', 'Asthma']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Moderately Active,Once a year,4,123,Accident,0
+32,Female,['Asthma'],"Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Active,Rarely,6,250,Chronic Condition,1
+61,Male,['Asthma'],"Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Diabetes,Moderately Active,Twice a year,9,331,Other,0
+36,Female,"['Obesity', 'Hypertension', 'Heart Disease']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,No Family History,Sedentary,Once a year,8,116,Chronic Condition,0
+59,Male,['None'],"Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,No Family History,Moderately Active,Monthly,6,139,Infection,0
+35,Female,"['Obesity', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Heart Disease,Sedentary,Quarterly,3,100,Surgery,0
+77,Other,"['Heart Disease', 'Asthma', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Active,Monthly,9,300,Chronic Condition,0
+48,Female,['Asthma'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,No Family History,Sedentary,Once a year,7,300,Surgery,0
+80,Male,"['Obesity', 'Hypertension', 'None']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Hypertension,Sedentary,Rarely,8,259,Chronic Condition,0
+83,Male,"['Hypertension', 'Obesity', 'Diabetes']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,No Family History,Sedentary,Twice a year,5,61,Chronic Condition,1
+22,Male,"['Asthma', 'Obesity', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Quarterly,9,293,Infection,0
+42,Other,['Diabetes'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,No Family History,Sedentary,Once a year,9,31,Accident,0
+58,Female,"['Obesity', 'Diabetes']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,No Family History,Active,Rarely,6,32,Surgery,1
+65,Other,['Hypertension'],"Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Heart Disease,Active,Monthly,2,57,Infection,0
+68,Female,"['Heart Disease', 'Obesity', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Quarterly,3,65,Chronic Condition,0
+74,Other,['Asthma'],Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Heart Disease,Active,Twice a year,6,161,Chronic Condition,0
+22,Male,['Hypertension'],"DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Active,Once a year,3,12,Infection,0
+29,Other,"['None', 'Obesity', 'Heart Disease']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Active,Quarterly,8,196,Accident,0
+61,Female,"['Diabetes', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Sedentary,Once a year,2,299,Accident,0
+19,Male,"['Heart Disease', 'Asthma', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Diabetes,Moderately Active,Once a year,4,272,Infection,1
+19,Male,"['Asthma', 'Hypertension']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Diabetes,Moderately Active,Twice a year,1,187,Chronic Condition,1
+83,Other,"['Asthma', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,No Family History,Active,Once a year,0,84,Chronic Condition,0
+24,Female,"['Diabetes', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,No Family History,Moderately Active,Rarely,2,292,Infection,0
+52,Male,['Heart Disease'],"Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Heart Disease,Active,Monthly,0,72,Accident,1
+42,Female,['Heart Disease'],"Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Monthly,0,227,Surgery,0
+53,Female,"['Hypertension', 'None']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Monthly,6,148,Other,1
+58,Other,"['Obesity', 'Diabetes', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Heart Disease,Sedentary,Quarterly,6,210,Accident,0
+63,Other,"['Asthma', 'Heart Disease', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Heart Disease,Active,Once a year,8,152,Accident,0
+70,Male,"['Obesity', 'None']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,No Family History,Active,Rarely,5,40,Chronic Condition,0
+48,Male,"['Obesity', 'Hypertension']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,No Family History,Moderately Active,Quarterly,0,107,Surgery,0
+75,Female,['None'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,No Family History,Active,Quarterly,2,187,Chronic Condition,0
+84,Male,['Heart Disease'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Heart Disease,Moderately Active,Once a year,2,117,Accident,0
+30,Female,['Diabetes'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,No Family History,Moderately Active,Once a year,0,156,Surgery,0
+24,Other,"['Asthma', 'Diabetes', 'Hypertension']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Diabetes,Moderately Active,Quarterly,2,316,Surgery,0
+58,Male,['None'],"Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Twice a year,4,78,Infection,1
+35,Female,"['Obesity', 'Asthma', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Diabetes,Sedentary,Monthly,2,7,Other,1
+83,Male,"['Heart Disease', 'None']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Diabetes,Active,Once a year,8,274,Infection,0
+59,Female,"['Obesity', 'None', 'Heart Disease']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Sedentary,Rarely,9,14,Other,0
+71,Other,['Obesity'],"Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Heart Disease,Active,Rarely,6,129,Surgery,1
+22,Female,"['Asthma', 'Diabetes', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Heart Disease,Sedentary,Monthly,3,344,Chronic Condition,0
+35,Other,['Hypertension'],"Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Diabetes,Sedentary,Monthly,1,215,Surgery,1
+67,Male,"['Asthma', 'None', 'Diabetes']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Moderately Active,Rarely,0,306,Surgery,0
+85,Female,"['Asthma', 'Heart Disease']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Monthly,2,204,Chronic Condition,0
+48,Female,"['Hypertension', 'None', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,No Family History,Active,Rarely,7,45,Accident,0
+89,Female,['Obesity'],"Paleo: High protein, Exercise: 60 mins/day",Former Smoker,No Family History,Sedentary,Rarely,2,284,Chronic Condition,0
+58,Male,"['None', 'Obesity', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,No Family History,Sedentary,Monthly,0,354,Chronic Condition,0
+75,Other,['Hypertension'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Diabetes,Active,Rarely,6,66,Infection,1
+50,Male,"['None', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Heart Disease,Sedentary,Twice a year,9,122,Chronic Condition,1
+25,Male,"['None', 'Hypertension', 'Obesity']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Heart Disease,Moderately Active,Once a year,9,194,Other,0
+37,Female,['Hypertension'],"Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,No Family History,Sedentary,Quarterly,3,351,Accident,0
+75,Male,"['Asthma', 'Diabetes']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Heart Disease,Active,Rarely,7,332,Infection,1
+51,Male,"['Asthma', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Diabetes,Sedentary,Quarterly,5,68,Other,1
+89,Other,"['Asthma', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,No Family History,Sedentary,Rarely,3,38,Surgery,0
+34,Male,"['Hypertension', 'Asthma']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Quarterly,0,260,Accident,0
+65,Male,"['Asthma', 'None']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Hypertension,Active,Monthly,7,295,Surgery,0
+51,Male,"['Obesity', 'Hypertension']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Diabetes,Moderately Active,Monthly,6,268,Infection,0
+31,Other,"['None', 'Hypertension', 'Obesity']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Monthly,6,47,Chronic Condition,0
+32,Female,['Heart Disease'],"Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Active,Quarterly,1,189,Other,1
+37,Male,"['Heart Disease', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Heart Disease,Sedentary,Once a year,2,156,Infection,1
+57,Other,['None'],Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,No Family History,Active,Once a year,0,68,Infection,1
+69,Other,"['Obesity', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Diabetes,Active,Quarterly,3,348,Infection,0
+63,Female,"['Heart Disease', 'Hypertension']","Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Diabetes,Sedentary,Once a year,0,296,Surgery,0
+81,Male,['Asthma'],"DASH: Low salt, Exercise: 30 mins/day",Current Smoker,No Family History,Sedentary,Quarterly,4,151,Accident,1
+46,Male,"['None', 'Obesity', 'Diabetes']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,No Family History,Active,Once a year,2,249,Chronic Condition,0
+48,Male,['None'],"Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Moderately Active,Monthly,0,203,Accident,0
+47,Female,"['Obesity', 'Diabetes', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Heart Disease,Moderately Active,Monthly,2,318,Surgery,1
+21,Male,"['Heart Disease', 'Asthma', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,No Family History,Moderately Active,Twice a year,1,84,Surgery,0
+83,Male,"['Hypertension', 'None', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Sedentary,Once a year,2,42,Chronic Condition,0
+73,Female,"['Asthma', 'Diabetes']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,No Family History,Active,Monthly,4,256,Infection,1
+53,Other,"['Obesity', 'None']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Hypertension,Moderately Active,Once a year,7,251,Surgery,0
+52,Male,"['Diabetes', 'Heart Disease', 'Hypertension']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Once a year,6,329,Surgery,0
+35,Other,"['None', 'Obesity']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Moderately Active,Rarely,6,64,Surgery,0
+55,Male,"['Asthma', 'Diabetes']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Once a year,8,16,Accident,1
+57,Female,['None'],"Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Monthly,5,40,Surgery,1
+88,Male,['Obesity'],"Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Diabetes,Active,Rarely,3,18,Accident,0
+83,Female,"['Diabetes', 'Hypertension']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Heart Disease,Active,Monthly,3,259,Infection,1
+75,Other,['Obesity'],"Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Active,Rarely,8,149,Surgery,1
+50,Female,"['Asthma', 'Heart Disease']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Heart Disease,Sedentary,Monthly,9,21,Other,1
+44,Female,"['Obesity', 'Heart Disease', 'None']","Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,No Family History,Sedentary,Quarterly,4,176,Chronic Condition,0
+20,Male,['None'],Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,No Family History,Active,Quarterly,4,154,Surgery,0
+21,Female,"['None', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Rarely,9,177,Accident,0
+62,Male,['Asthma'],"Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Active,Rarely,0,352,Chronic Condition,0
+53,Other,['Heart Disease'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Heart Disease,Active,Once a year,0,195,Infection,0
+78,Other,['None'],"DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Quarterly,3,351,Infection,1
+68,Male,"['Diabetes', 'Asthma', 'Obesity']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Diabetes,Moderately Active,Once a year,7,265,Surgery,0
+46,Female,['Asthma'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Quarterly,3,187,Other,1
+55,Female,"['None', 'Heart Disease', 'Asthma']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Active,Quarterly,0,211,Other,0
+83,Other,"['Diabetes', 'Asthma', 'Obesity']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,No Family History,Moderately Active,Once a year,5,278,Surgery,0
+18,Other,['Asthma'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,No Family History,Moderately Active,Quarterly,7,313,Infection,0
+84,Other,"['Hypertension', 'Asthma', 'Obesity']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Active,Once a year,6,177,Chronic Condition,0
+78,Other,"['None', 'Heart Disease', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Heart Disease,Moderately Active,Quarterly,9,230,Surgery,0
+77,Female,"['Obesity', 'Heart Disease']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,No Family History,Active,Monthly,8,331,Chronic Condition,0
+29,Male,['Obesity'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Diabetes,Sedentary,Once a year,6,151,Surgery,0
+75,Female,"['Diabetes', 'Heart Disease']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Hypertension,Sedentary,Quarterly,0,264,Chronic Condition,1
+51,Male,"['Hypertension', 'None', 'Obesity']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Hypertension,Active,Twice a year,7,363,Other,1
+80,Female,['Heart Disease'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Diabetes,Sedentary,Quarterly,0,2,Infection,0
+55,Male,['Hypertension'],"DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Active,Monthly,0,85,Other,0
+87,Female,"['Heart Disease', 'Hypertension', 'None']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,No Family History,Active,Twice a year,8,66,Accident,0
+42,Male,"['Hypertension', 'None']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,No Family History,Sedentary,Monthly,9,18,Surgery,0
+35,Male,['Asthma'],"Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Sedentary,Once a year,0,95,Infection,0
+41,Other,['Obesity'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Heart Disease,Active,Quarterly,5,21,Accident,0
+23,Male,"['None', 'Hypertension', 'Obesity']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Heart Disease,Moderately Active,Twice a year,0,269,Infection,1
+24,Female,['Diabetes'],"Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Diabetes,Moderately Active,Twice a year,6,116,Chronic Condition,0
+22,Female,['Hypertension'],"Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Hypertension,Moderately Active,Monthly,7,202,Infection,0
+26,Other,"['Asthma', 'Heart Disease', 'Obesity']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Diabetes,Sedentary,Once a year,8,260,Surgery,0
+49,Other,"['Asthma', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,No Family History,Active,Quarterly,4,284,Accident,1
+53,Other,"['Asthma', 'Heart Disease', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Heart Disease,Active,Quarterly,5,282,Accident,1
+38,Male,['Obesity'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Heart Disease,Sedentary,Rarely,2,89,Infection,1
+70,Other,['Asthma'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Heart Disease,Moderately Active,Quarterly,8,111,Accident,0
+67,Female,"['None', 'Hypertension', 'Asthma']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,No Family History,Active,Quarterly,1,166,Infection,1
+36,Other,"['Diabetes', 'Heart Disease']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Once a year,8,362,Infection,1
+34,Male,"['Diabetes', 'Asthma']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Hypertension,Active,Once a year,6,89,Chronic Condition,1
+28,Male,"['Hypertension', 'Heart Disease', 'Asthma']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Twice a year,1,230,Infection,0
+39,Male,"['Obesity', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Moderately Active,Once a year,4,207,Other,1
+79,Male,['Diabetes'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Hypertension,Sedentary,Quarterly,1,114,Chronic Condition,0
+64,Male,"['None', 'Asthma']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,Family History of Heart Disease,Active,Once a year,4,159,Surgery,0
+77,Female,"['Asthma', 'None', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Diabetes,Active,Monthly,4,65,Accident,0
+21,Male,"['Obesity', 'Hypertension', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Active,Quarterly,8,255,Other,1
+77,Male,['Diabetes'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Hypertension,Active,Rarely,3,286,Chronic Condition,1
+60,Other,['None'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Diabetes,Moderately Active,Monthly,7,307,Other,0
+88,Male,"['Hypertension', 'Heart Disease', 'Diabetes']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Heart Disease,Moderately Active,Rarely,4,262,Infection,1
+76,Female,['Heart Disease'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Heart Disease,Active,Quarterly,5,287,Chronic Condition,0
+36,Other,"['Heart Disease', 'Hypertension', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Active,Once a year,4,205,Infection,0
+39,Other,"['None', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Hypertension,Moderately Active,Quarterly,8,228,Chronic Condition,1
+61,Other,"['Obesity', 'None', 'Asthma']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,No Family History,Moderately Active,Twice a year,7,211,Surgery,0
+59,Other,"['Hypertension', 'Heart Disease', 'Asthma']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Diabetes,Sedentary,Monthly,6,170,Other,0
+30,Female,['Hypertension'],Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Heart Disease,Sedentary,Rarely,0,318,Other,0
+62,Female,['Asthma'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Once a year,1,182,Accident,0
+43,Other,"['Heart Disease', 'Asthma']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Monthly,0,268,Infection,0
+85,Other,"['Heart Disease', 'Hypertension', 'None']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Rarely,1,11,Chronic Condition,0
+47,Male,"['Diabetes', 'Asthma']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,No Family History,Moderately Active,Quarterly,7,66,Surgery,0
+39,Other,['Obesity'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Hypertension,Active,Twice a year,2,182,Accident,1
+44,Other,"['Diabetes', 'None', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,No Family History,Sedentary,Rarely,7,234,Surgery,0
+42,Female,"['Hypertension', 'None']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Diabetes,Active,Rarely,7,264,Accident,0
+75,Other,['Heart Disease'],"DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Quarterly,2,358,Chronic Condition,1
+79,Other,['None'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Monthly,5,337,Surgery,0
+73,Other,"['Hypertension', 'Heart Disease']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Heart Disease,Moderately Active,Quarterly,1,336,Chronic Condition,0
+40,Other,"['Asthma', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Hypertension,Moderately Active,Monthly,0,62,Other,1
+58,Female,"['Diabetes', 'Hypertension', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Diabetes,Moderately Active,Once a year,1,102,Infection,0
+61,Female,['Asthma'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,No Family History,Sedentary,Monthly,0,346,Surgery,1
+77,Male,"['Heart Disease', 'Asthma', 'Hypertension']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Hypertension,Sedentary,Monthly,9,190,Chronic Condition,0
+53,Other,"['Diabetes', 'None']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Once a year,3,83,Other,0
+59,Female,"['Hypertension', 'Diabetes', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,No Family History,Moderately Active,Monthly,3,360,Chronic Condition,0
+59,Female,"['Hypertension', 'Heart Disease']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Moderately Active,Quarterly,1,326,Chronic Condition,0
+23,Male,"['Diabetes', 'Obesity', 'Hypertension']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Moderately Active,Quarterly,0,44,Surgery,0
+55,Other,['Heart Disease'],Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Heart Disease,Active,Rarely,5,284,Surgery,0
+70,Female,"['Asthma', 'None', 'Hypertension']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Active,Rarely,8,201,Other,0
+59,Female,['None'],"Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Moderately Active,Once a year,2,283,Chronic Condition,1
+42,Other,"['Heart Disease', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Diabetes,Sedentary,Rarely,6,145,Chronic Condition,1
+40,Female,"['Hypertension', 'Obesity', 'Heart Disease']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,No Family History,Moderately Active,Monthly,5,290,Accident,0
+72,Other,"['Asthma', 'Diabetes', 'None']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Sedentary,Once a year,8,336,Other,1
+83,Male,"['Heart Disease', 'Asthma', 'Obesity']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Active,Twice a year,1,222,Infection,0
+58,Female,['Diabetes'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Hypertension,Active,Once a year,9,273,Accident,0
+80,Other,['Hypertension'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Diabetes,Moderately Active,Monthly,1,357,Infection,0
+41,Female,"['None', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Once a year,2,253,Accident,0
+81,Other,"['Heart Disease', 'Diabetes', 'Hypertension']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Sedentary,Quarterly,5,236,Chronic Condition,0
+71,Other,"['Heart Disease', 'None', 'Hypertension']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Monthly,8,123,Accident,0
+72,Other,"['Diabetes', 'Heart Disease', 'None']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Hypertension,Active,Monthly,8,331,Infection,0
+74,Other,"['Obesity', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Monthly,0,261,Accident,0
+43,Other,"['Diabetes', 'Obesity']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Diabetes,Sedentary,Monthly,2,362,Chronic Condition,0
+39,Other,"['Heart Disease', 'None', 'Hypertension']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Active,Once a year,2,350,Chronic Condition,0
+86,Male,['Hypertension'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Diabetes,Moderately Active,Twice a year,7,129,Infection,0
+80,Male,"['Hypertension', 'Asthma', 'Heart Disease']","Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Monthly,0,38,Accident,0
+63,Other,"['Hypertension', 'Obesity', 'None']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Monthly,6,364,Accident,0
+89,Female,"['Heart Disease', 'Diabetes']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,No Family History,Sedentary,Twice a year,5,34,Chronic Condition,1
+29,Other,"['Heart Disease', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Once a year,7,90,Surgery,1
+46,Female,"['Hypertension', 'Heart Disease', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Once a year,3,363,Chronic Condition,0
+66,Other,"['Obesity', 'None', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Hypertension,Moderately Active,Twice a year,5,360,Infection,0
+34,Male,['Hypertension'],"DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Monthly,2,16,Accident,0
+44,Male,['Heart Disease'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Heart Disease,Sedentary,Once a year,7,333,Surgery,0
+61,Female,['Asthma'],"Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Diabetes,Sedentary,Once a year,9,156,Accident,0
+69,Other,['Heart Disease'],"Paleo: High protein, Exercise: 60 mins/day",Current Smoker,No Family History,Sedentary,Twice a year,0,297,Accident,0
+66,Other,['Diabetes'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,No Family History,Moderately Active,Twice a year,4,11,Infection,0
+62,Other,"['Heart Disease', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Moderately Active,Monthly,6,29,Surgery,0
+22,Male,"['Heart Disease', 'None', 'Diabetes']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Quarterly,4,166,Accident,0
+84,Other,['Diabetes'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Hypertension,Sedentary,Once a year,8,312,Infection,0
+42,Male,"['Heart Disease', 'Hypertension']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Hypertension,Active,Twice a year,0,85,Chronic Condition,0
+45,Female,"['Asthma', 'Diabetes']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Hypertension,Active,Quarterly,2,225,Other,0
+48,Other,"['Heart Disease', 'Asthma']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Moderately Active,Rarely,3,201,Chronic Condition,0
+28,Other,['Heart Disease'],"DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Active,Rarely,2,216,Other,0
+81,Other,['Heart Disease'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Heart Disease,Sedentary,Quarterly,9,231,Other,0
+30,Other,"['Heart Disease', 'Hypertension', 'Diabetes']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Diabetes,Sedentary,Rarely,5,268,Infection,0
+71,Female,"['None', 'Asthma', 'Heart Disease']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Active,Once a year,8,57,Chronic Condition,1
+24,Male,['Hypertension'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,No Family History,Sedentary,Rarely,8,71,Infection,1
+89,Other,['Hypertension'],"Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Rarely,6,119,Other,0
+25,Other,['None'],"Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Quarterly,7,131,Surgery,0
+36,Female,"['Diabetes', 'Heart Disease', 'Obesity']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Hypertension,Active,Once a year,1,363,Infection,0
+88,Other,"['Asthma', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Hypertension,Sedentary,Once a year,2,286,Other,0
+26,Female,['Heart Disease'],Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Diabetes,Moderately Active,Quarterly,6,28,Surgery,1
+69,Male,"['Heart Disease', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,No Family History,Moderately Active,Monthly,4,188,Surgery,1
+71,Male,"['Asthma', 'None']","Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Diabetes,Sedentary,Quarterly,9,173,Infection,0
+66,Male,"['Asthma', 'Heart Disease']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Rarely,3,145,Other,1
+52,Female,['Hypertension'],"Keto: Low carb, Exercise: 45 mins/day",Current Smoker,No Family History,Moderately Active,Once a year,6,334,Infection,0
+60,Female,['Diabetes'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Heart Disease,Moderately Active,Monthly,5,137,Infection,0
+65,Male,"['Asthma', 'Diabetes']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,No Family History,Moderately Active,Quarterly,8,117,Infection,0
+34,Female,"['Asthma', 'Hypertension', 'None']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Diabetes,Sedentary,Rarely,5,210,Chronic Condition,0
+27,Male,['Diabetes'],"DASH: Low salt, Exercise: 30 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Monthly,9,211,Other,1
+58,Female,['Diabetes'],"Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Active,Monthly,2,359,Infection,0
+47,Male,"['None', 'Asthma']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Hypertension,Active,Twice a year,8,112,Infection,0
+51,Other,"['Heart Disease', 'Hypertension', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Once a year,6,59,Infection,1
+63,Other,"['Obesity', 'Diabetes']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Moderately Active,Quarterly,6,186,Accident,0
+61,Male,"['Diabetes', 'None', 'Heart Disease']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Once a year,2,134,Accident,1
+67,Male,"['Hypertension', 'Obesity', 'None']","Paleo: High protein, Exercise: 60 mins/day",Former Smoker,No Family History,Active,Rarely,0,186,Other,0
+49,Male,"['Heart Disease', 'None', 'Obesity']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Heart Disease,Active,Twice a year,5,341,Surgery,0
+83,Other,"['Heart Disease', 'Asthma', 'Obesity']","Keto: Low carb, Exercise: 45 mins/day",Former Smoker,No Family History,Active,Once a year,3,333,Chronic Condition,1
+39,Other,['Diabetes'],"Low-fat: Low calorie, Exercise: 45 mins/day",Never Smoked,No Family History,Moderately Active,Twice a year,5,330,Infection,0
+74,Other,"['None', 'Obesity', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,No Family History,Sedentary,Once a year,9,135,Infection,1
+18,Female,"['Hypertension', 'Asthma', 'Diabetes']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,No Family History,Active,Monthly,7,342,Accident,0
+51,Other,"['Hypertension', 'None', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Active,Once a year,7,126,Accident,1
+80,Female,['Diabetes'],"DASH: Low salt, Exercise: 30 mins/day",Current Smoker,No Family History,Sedentary,Once a year,4,213,Chronic Condition,0
+58,Female,"['None', 'Heart Disease']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Active,Once a year,6,267,Other,1
+53,Male,"['Diabetes', 'Hypertension']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Hypertension,Moderately Active,Monthly,9,222,Chronic Condition,0
+79,Other,"['Obesity', 'Asthma', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Heart Disease,Sedentary,Once a year,9,363,Accident,0
+59,Female,"['Heart Disease', 'None', 'Hypertension']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,No Family History,Moderately Active,Twice a year,7,345,Infection,0
+50,Male,"['Hypertension', 'None']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Heart Disease,Moderately Active,Rarely,9,189,Other,1
+48,Male,['Obesity'],"Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Active,Rarely,2,35,Chronic Condition,0
+24,Male,"['Hypertension', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Heart Disease,Sedentary,Twice a year,2,158,Accident,0
+55,Male,['Heart Disease'],"Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Heart Disease,Sedentary,Monthly,7,320,Other,0
+61,Female,"['Diabetes', 'Heart Disease']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,No Family History,Active,Once a year,8,211,Other,1
+88,Other,"['None', 'Diabetes', 'Hypertension']","Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Quarterly,7,359,Infection,0
+54,Other,['None'],"Paleo: High protein, Exercise: 60 mins/day",Current Smoker,No Family History,Sedentary,Once a year,0,301,Infection,0
+30,Female,"['Obesity', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Heart Disease,Active,Once a year,4,22,Infection,0
+30,Male,"['Obesity', 'Asthma', 'None']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Active,Monthly,6,146,Accident,1
+31,Female,"['None', 'Obesity', 'Asthma']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,Family History of Diabetes,Moderately Active,Twice a year,2,9,Accident,1
+66,Female,"['Hypertension', 'Obesity']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Hypertension,Moderately Active,Once a year,2,356,Surgery,0
+32,Male,"['Hypertension', 'Diabetes', 'Heart Disease']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Hypertension,Moderately Active,Rarely,0,81,Other,0
+40,Other,['None'],"Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Heart Disease,Moderately Active,Quarterly,2,245,Other,0
+18,Male,"['Heart Disease', 'Obesity', 'Diabetes']","Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,No Family History,Sedentary,Rarely,5,66,Other,0
+79,Female,"['Diabetes', 'Heart Disease']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,Family History of Diabetes,Moderately Active,Once a year,2,236,Surgery,0
+67,Male,"['Diabetes', 'Asthma']","DASH: Low salt, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Once a year,1,122,Infection,0
+38,Other,['Obesity'],"Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Moderately Active,Quarterly,4,164,Infection,0
+33,Female,"['Obesity', 'Hypertension']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Hypertension,Moderately Active,Once a year,8,179,Accident,0
+31,Female,['Heart Disease'],"Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Sedentary,Rarely,8,163,Surgery,0
+60,Other,['Hypertension'],"Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Active,Once a year,8,250,Surgery,0
+29,Female,['None'],"Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Moderately Active,Rarely,2,2,Surgery,0
+44,Male,['Hypertension'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Diabetes,Active,Monthly,2,345,Surgery,0
+43,Female,"['Diabetes', 'Hypertension', 'None']","Paleo: High protein, Exercise: 60 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Monthly,7,315,Accident,1
+28,Female,['Hypertension'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Diabetes,Moderately Active,Twice a year,0,104,Accident,0
+48,Other,['Heart Disease'],"Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,Family History of Hypertension,Active,Rarely,2,75,Infection,1
+41,Other,"['Obesity', 'Hypertension', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,No Family History,Moderately Active,Twice a year,7,219,Infection,0
+60,Other,"['Hypertension', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Diabetes,Active,Rarely,8,288,Surgery,1
+36,Female,"['Diabetes', 'Hypertension', 'Obesity']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,No Family History,Active,Twice a year,5,283,Accident,0
+58,Other,"['None', 'Hypertension']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,No Family History,Active,Quarterly,5,258,Accident,1
+33,Male,['None'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Heart Disease,Moderately Active,Twice a year,8,188,Surgery,0
+77,Other,['Diabetes'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Former Smoker,Family History of Diabetes,Active,Monthly,3,216,Surgery,0
+18,Female,"['Heart Disease', 'Hypertension']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Sedentary,Monthly,4,294,Infection,0
+21,Female,"['Heart Disease', 'Obesity']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Diabetes,Sedentary,Quarterly,5,204,Surgery,0
+77,Other,"['Obesity', 'Heart Disease', 'Diabetes']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,Family History of Hypertension,Sedentary,Once a year,5,11,Accident,1
+21,Female,['Asthma'],"Vegetarian: High protein, Exercise: 30 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Once a year,7,64,Chronic Condition,1
+41,Male,"['Diabetes', 'None', 'Asthma']","Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Heart Disease,Active,Quarterly,5,262,Infection,0
+58,Male,"['Heart Disease', 'Asthma', 'Obesity']","Vegan: High fiber, Sleep: 6-7 hours/night",Never Smoked,No Family History,Active,Monthly,8,229,Surgery,0
+73,Female,['Heart Disease'],"Vegan: High fiber, Sleep: 6-7 hours/night",Current Smoker,Family History of Diabetes,Moderately Active,Once a year,9,137,Infection,0
+61,Other,['Asthma'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,No Family History,Active,Quarterly,6,25,Infection,0
+80,Male,"['Heart Disease', 'Obesity']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Hypertension,Sedentary,Twice a year,1,1,Infection,1
+57,Other,"['None', 'Diabetes', 'Hypertension']","DASH: Low salt, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Sedentary,Twice a year,0,33,Infection,1
+26,Female,"['None', 'Heart Disease', 'Obesity']","Paleo: High protein, Exercise: 60 mins/day",Never Smoked,No Family History,Moderately Active,Monthly,2,46,Other,1
+89,Other,"['None', 'Heart Disease', 'Asthma']","Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,Family History of Heart Disease,Sedentary,Monthly,6,268,Other,0
+75,Other,"['Obesity', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Diabetes,Active,Quarterly,3,236,Chronic Condition,0
+52,Male,"['Heart Disease', 'Diabetes', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Heart Disease,Sedentary,Rarely,4,252,Other,0
+18,Female,"['None', 'Asthma']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Hypertension,Moderately Active,Monthly,0,345,Accident,1
+21,Female,['Asthma'],"Vegan: High fiber, Sleep: 6-7 hours/night",Former Smoker,Family History of Heart Disease,Active,Quarterly,3,319,Chronic Condition,0
+72,Other,"['None', 'Diabetes']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Heart Disease,Active,Monthly,3,63,Surgery,0
+82,Male,"['Asthma', 'Hypertension', 'None']","Mediterranean: Balanced, Sleep: 7-8 hours/night",Never Smoked,No Family History,Active,Once a year,1,29,Surgery,0
+34,Female,"['Heart Disease', 'Diabetes']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Hypertension,Sedentary,Rarely,7,319,Infection,0
+65,Female,['Obesity'],"Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Moderately Active,Twice a year,7,86,Surgery,0
+34,Male,['Diabetes'],Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Diabetes,Active,Quarterly,3,54,Chronic Condition,0
+78,Male,"['Obesity', 'Heart Disease']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Moderately Active,Quarterly,0,198,Accident,0
+32,Male,['Asthma'],"Low-fat: Low calorie, Exercise: 45 mins/day",Current Smoker,No Family History,Moderately Active,Monthly,6,138,Other,1
+84,Female,['Asthma'],"Mediterranean: Balanced, Sleep: 7-8 hours/night",Current Smoker,Family History of Hypertension,Active,Rarely,8,222,Surgery,1
+62,Female,"['Heart Disease', 'None', 'Diabetes']",Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Diabetes,Active,Once a year,1,195,Other,0
+72,Female,"['Diabetes', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Current Smoker,Family History of Hypertension,Moderately Active,Rarely,7,91,Accident,0
+83,Other,"['Asthma', 'Diabetes']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Active,Quarterly,0,195,Accident,0
+50,Female,"['None', 'Heart Disease', 'Obesity']","Keto: Low carb, Exercise: 45 mins/day",Never Smoked,Family History of Heart Disease,Sedentary,Quarterly,2,287,Infection,0
+52,Female,"['None', 'Hypertension']","Vegetarian: High protein, Exercise: 30 mins/day",Former Smoker,Family History of Diabetes,Moderately Active,Quarterly,4,152,Accident,0
+61,Other,"['Diabetes', 'None']",Intermittent Fasting: Sleep: 7-8 hours/night,Never Smoked,Family History of Diabetes,Moderately Active,Twice a year,5,37,Chronic Condition,0
+44,Female,['None'],Intermittent Fasting: Sleep: 7-8 hours/night,Former Smoker,Family History of Hypertension,Moderately Active,Once a year,2,198,Surgery,0
+79,Other,"['Asthma', 'Hypertension', 'Obesity']","Vegetarian: High protein, Exercise: 30 mins/day",Never Smoked,Family History of Diabetes,Sedentary,Twice a year,6,157,Other,1
+88,Female,"['Asthma', 'Obesity', 'None']","Low-fat: Low calorie, Exercise: 45 mins/day",Former Smoker,No Family History,Sedentary,Quarterly,7,192,Accident,0
+27,Female,"['Diabetes', 'Obesity']","Keto: Low carb, Exercise: 45 mins/day",Current Smoker,Family History of Hypertension,Active,Rarely,8,138,Other,0
